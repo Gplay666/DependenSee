@@ -1,0 +1,22 @@
+unused packages -> 50
+unused dependencies -> 50
+orphaned packages -> 50
+dependency tree -> 50
+dependency graph -> 50
+visualize dependencies -> 50
+autoremove -> 50
+remove packages safely -> 50
+disk space packages -> 50
+clean up packages -> 50
+reverse dependencies -> 50
+dnf remove dependencies -> 50
+flatpak unused -> 50
+package cleanup -> 50
+fetched 25 / 600
+fetched 50 / 600
+fetched 75 / 600
+fetched 100 / 600
+fetched 125 / 600
+fetched 150 / 600
+fetched 175 / 600
+fetched 200 / 600

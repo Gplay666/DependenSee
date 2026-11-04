@@ -1,0 +1,400 @@
+  1 s= 53 score=   1 ans= 1 2026-01-10 askubuntu Strange behavior of apt remove with deborphan
+      https://askubuntu.com/questions/1562712/strange-behavior-of-apt-remove-with-deborphan
+  2 s= 47 score=   1 ans= 1 2021-01-11 unix      yum confusion about package-cleanup --orphans and --leaves
+      https://unix.stackexchange.com/questions/628622/yum-confusion-about-package-cleanup-orphans-and-leaves
+  3 s= 43 score=   2 ans= 1 2020-08-23 unix      How to explain apt dependencies that are not autoremoved?
+      https://unix.stackexchange.com/questions/605886/how-to-explain-apt-dependencies-that-are-not-autoremoved
+  4 s= 43 score=   0 ans= 1 2024-06-15 askubuntu sudo apt --purge autoremove fails saying insufficient disk for mkinitramfs. How can I fix this?
+      https://askubuntu.com/questions/1517667/sudo-apt-purge-autoremove-fails-saying-insufficient-disk-for-mkinitramfs-how
+  5 s= 42 score=   3 ans= 0 2026-05-03 askubuntu Why was deborphan removed in 26.04?
+      https://askubuntu.com/questions/1566375/why-was-deborphan-removed-in-26-04
+  6 s= 42 score=   0 ans= 1 2022-09-13 askubuntu How to safely remove snaps installed by apt transitional packages?
+      https://askubuntu.com/questions/1429069/how-to-safely-remove-snaps-installed-by-apt-transitional-packages
+  7 s= 40 score=   1 ans= 0 2020-06-11 unix      How can I get apt autoremove to clean up after a failure?
+      https://unix.stackexchange.com/questions/592287/how-can-i-get-apt-autoremove-to-clean-up-after-a-failure
+  8 s= 40 score=   0 ans= 1 2021-04-26 unix      Safe to remove Mousepad dependencies in POP_OS?
+      https://unix.stackexchange.com/questions/646854/safe-to-remove-mousepad-dependencies-in-pop-os
+  9 s= 40 score=   0 ans= 0 2022-07-16 askubuntu "Codecs" are marked as orphaned packages by APT after fresh OS install
+      https://askubuntu.com/questions/1419062/codecs-are-marked-as-orphaned-packages-by-apt-after-fresh-os-install
+ 10 s= 39 score=   1 ans= 0 2020-02-18 askubuntu Safely purge cuda 10.2 without hurting other cuda version and dependencies
+      https://askubuntu.com/questions/1211279/safely-purge-cuda-10-2-without-hurting-other-cuda-version-and-dependencies
+ 11 s= 38 score=  -1 ans= 1 2021-09-03 askubuntu Apt states system packages and other installed packages as orphaned and to be autoremoved
+      https://askubuntu.com/questions/1361657/apt-states-system-packages-and-other-installed-packages-as-orphaned-and-to-be-au
+ 12 s= 37 score=   2 ans= 2 2022-08-25 askubuntu Why is apt autoremove not correctly undoing apt install?
+      https://askubuntu.com/questions/1425715/why-is-apt-autoremove-not-correctly-undoing-apt-install
+ 13 s= 36 score=  22 ans= 3 2021-04-07 unix      apt/aptitude - How can I display a package dependency tree for a collection of packages, taken as a whole?
+      https://unix.stackexchange.com/questions/643979/apt-aptitude-how-can-i-display-a-package-dependency-tree-for-a-collection-of-p
+ 14 s= 36 score=   2 ans= 1 2020-12-07 unix      Deborphan - Verify That a Package in the Keep List Is an Orphan
+      https://unix.stackexchange.com/questions/623353/deborphan-verify-that-a-package-in-the-keep-list-is-an-orphan
+ 15 s= 36 score=   2 ans= 1 2021-05-10 unix      Deborphan false positive: libmagickwand-dev:all
+      https://unix.stackexchange.com/questions/649003/deborphan-false-positive-libmagickwand-devall
+ 16 s= 35 score=   5 ans= 2 2025-04-23 unix      Mint: package broken, apt/Synaptic wants to remove half the system along with it
+      https://unix.stackexchange.com/questions/794070/mint-package-broken-apt-synaptic-wants-to-remove-half-the-system-along-with-it
+ 17 s= 35 score=   1 ans= 0 2021-12-14 askubuntu Apt and Grub Broken after upgrade & autoremove
+      https://askubuntu.com/questions/1380907/apt-and-grub-broken-after-upgrade-autoremove
+ 18 s= 35 score=   0 ans= 0 2020-11-11 askubuntu sudo apt autoremove showing unmet dependencies I can't remove for mongodb
+      https://askubuntu.com/questions/1291355/sudo-apt-autoremove-showing-unmet-dependencies-i-cant-remove-for-mongodb
+ 19 s= 35 score=   0 ans= 1 2026-06-26 askubuntu System apps are lag/freezing after using apt autoremove (possible missing dependencies)
+      https://askubuntu.com/questions/1567986/system-apps-are-lag-freezing-after-using-apt-autoremove-possible-missing-depend
+ 20 s= 34 score=   2 ans= 1 2021-07-07 unix      Does dnf autoremove remove only unused packages/dependencies?
+      https://unix.stackexchange.com/questions/657442/does-dnf-autoremove-remove-only-unused-packages-dependencies
+ 21 s= 34 score=   1 ans= 1 2020-09-30 askubuntu Why are some apt package dependencies so broken? For example emacsen-common?
+      https://askubuntu.com/questions/1278924/why-are-some-apt-package-dependencies-so-broken-for-example-emacsen-common
+ 22 s= 33 score=   9 ans= 2 2020-10-11 askubuntu Ubuntu 20.04.1 upgrade failure / ERROR Dist-upgrade failed: 'Broken packages after upgrade: colord'
+      https://askubuntu.com/questions/1281969/ubuntu-20-04-1-upgrade-failure-error-dist-upgrade-failed-broken-packages-aft
+ 23 s= 33 score=   6 ans= 1 2020-08-27 askubuntu What is the difference between a "new" unused dependency and an unused dependency?
+      https://askubuntu.com/questions/1270400/what-is-the-difference-between-a-new-unused-dependency-and-an-unused-dependenc
+ 24 s= 32 score=   1 ans= 1 2022-09-20 askubuntu apt autoremove asking to remove linux image generic, is it safe?
+      https://askubuntu.com/questions/1430371/apt-autoremove-asking-to-remove-linux-image-generic-is-it-safe
+ 25 s= 32 score=   1 ans= 1 2022-12-27 askubuntu does "sudo apt --purge autoremove pkgname" clear literally all the dependencies or just the ones installed wit
+      https://askubuntu.com/questions/1447583/does-sudo-apt-purge-autoremove-pkgname-clear-literally-all-the-dependencies
+ 26 s= 32 score=   1 ans= 1 2024-03-07 unix      apt autoremove does not remove all dependencies even with Apt::AutoRemove::SuggestsImportant "false";
+      https://unix.stackexchange.com/questions/771812/apt-autoremove-does-not-remove-all-dependencies-even-with-aptautoremovesugge
+ 27 s= 32 score=   0 ans= 0 2022-02-02 askubuntu 'sudo apt autoremove' breaks the GNOME desktop
+      https://askubuntu.com/questions/1390594/sudo-apt-autoremove-breaks-the-gnome-desktop
+ 28 s= 31 score=   4 ans= 3 2020-09-07 askubuntu Why does installing Wine uninstall other packages?
+      https://askubuntu.com/questions/1273349/why-does-installing-wine-uninstall-other-packages
+ 29 s= 31 score=   4 ans= 3 2022-04-27 unix      Broken Packages on Pop!_OS (Dependency Problems)
+      https://unix.stackexchange.com/questions/700618/broken-packages-on-pop-os-dependency-problems
+ 30 s= 31 score=   1 ans= 0 2020-02-01 unix      Java Compiling on Linux
+      https://unix.stackexchange.com/questions/565314/java-compiling-on-linux
+ 31 s= 31 score=   1 ans= 1 2021-10-09 askubuntu Problem with sudo apt autoremove
+      https://askubuntu.com/questions/1368299/problem-with-sudo-apt-autoremove
+ 32 s= 31 score=   1 ans= 0 2022-06-08 askubuntu Low disk space on /boot preventing update in Ubuntu 22.04 and warnings of missing firmware which aren't missin
+      https://askubuntu.com/questions/1413038/low-disk-space-on-boot-preventing-update-in-ubuntu-22-04-and-warnings-of-missin
+ 33 s= 31 score=   0 ans= 0 2022-05-24 unix      apt-get autoremove --purge -y seems to be stuck
+      https://unix.stackexchange.com/questions/703667/apt-get-autoremove-purge-y-seems-to-be-stuck
+ 34 s= 31 score=   0 ans= 1 2024-04-06 askubuntu The volume boot has only 0 bytes disk space remaining. Safe way to remove old kernels?
+      https://askubuntu.com/questions/1509707/the-volume-boot-has-only-0-bytes-disk-space-remaining-safe-way-to-remove-old-ke
+ 35 s= 30 score=   2 ans= 1 2020-11-12 askubuntu Broken ubuntu update on a 20.04 server. Unmet dependencies on linux-generic
+      https://askubuntu.com/questions/1291861/broken-ubuntu-update-on-a-20-04-server-unmet-dependencies-on-linux-generic
+ 36 s= 30 score=   2 ans= 1 2021-12-15 askubuntu apt autoremove does not free up space on boot
+      https://askubuntu.com/questions/1381071/apt-autoremove-does-not-free-up-space-on-boot
+ 37 s= 30 score=   1 ans= 3 2020-05-07 askubuntu sudo apt autoremove wants to remove a lot of packages, safe to run?
+      https://askubuntu.com/questions/1236538/sudo-apt-autoremove-wants-to-remove-a-lot-of-packages-safe-to-run
+ 38 s= 30 score=   1 ans= 0 2022-05-08 askubuntu Can't fix broken dependencies but can't spot exactly why
+      https://askubuntu.com/questions/1407383/cant-fix-broken-dependencies-but-cant-spot-exactly-why
+ 39 s= 30 score=   1 ans= 2 2026-10-05 askubuntu Kernels not identified nor removed by autoremove
+      https://askubuntu.com/questions/1570074/kernels-not-identified-nor-removed-by-autoremove
+ 40 s= 30 score=   0 ans= 0 2020-04-14 askubuntu How can I get autoremove to actually remove things?
+      https://askubuntu.com/questions/1227084/how-can-i-get-autoremove-to-actually-remove-things
+ 41 s= 30 score=   0 ans= 0 2021-08-21 unix      why EIO Error(Input/Output Error) appears frequently and is mostly solved with e2fsck
+      https://unix.stackexchange.com/questions/665594/why-eio-errorinput-output-error-appears-frequently-and-is-mostly-solved-with-e
+ 42 s= 30 score=   0 ans= 1 2021-10-09 askubuntu Should I apt autoremove if it will remove dkms?
+      https://askubuntu.com/questions/1368355/should-i-apt-autoremove-if-it-will-remove-dkms
+ 43 s= 30 score=   0 ans= 1 2022-07-26 askubuntu Is it safe to remove linux-image-5.13.0-1028-raspi after upgrading from 21.10 to 22.04 - dependency error
+      https://askubuntu.com/questions/1420584/is-it-safe-to-remove-linux-image-5-13-0-1028-raspi-after-upgrading-from-21-10-to
+ 44 s= 29 score=   4 ans= 1 2021-03-22 askubuntu Why is apt-get autoremove failing to remove my old kernels?
+      https://askubuntu.com/questions/1325387/why-is-apt-get-autoremove-failing-to-remove-my-old-kernels
+ 45 s= 29 score=   2 ans= 1 2020-01-14 askubuntu APT doesn't autoremove an automatic package with 0 dependents
+      https://askubuntu.com/questions/1202939/apt-doesnt-autoremove-an-automatic-package-with-0-dependents
+ 46 s= 29 score=   2 ans= 1 2020-11-06 askubuntu Broken libgcc1 dependency in Ubuntu 20.04
+      https://askubuntu.com/questions/1290216/broken-libgcc1-dependency-in-ubuntu-20-04
+ 47 s= 29 score=   2 ans= 1 2021-12-17 askubuntu Problems updating CUDA on 18.04 LTS (driver package conflict?)
+      https://askubuntu.com/questions/1382380/problems-updating-cuda-on-18-04-lts-driver-package-conflict
+ 48 s= 29 score=   1 ans= 0 2020-03-25 askubuntu Unable to run apt --fix-broken install to install required dependencies due to broken pipe error
+      https://askubuntu.com/questions/1220218/unable-to-run-apt-fix-broken-install-to-install-required-dependencies-due-to-b
+ 49 s= 29 score=   1 ans= 1 2020-10-13 askubuntu apt autoremove deleted software in use
+      https://askubuntu.com/questions/1283547/apt-autoremove-deleted-software-in-use
+ 50 s= 29 score=   1 ans= 1 2021-01-12 askubuntu How to fix issues occured after recent Ubuntu software upgrade
+      https://askubuntu.com/questions/1307247/how-to-fix-issues-occured-after-recent-ubuntu-software-upgrade
+ 51 s= 29 score=   1 ans= 0 2021-06-01 unix      A package marked as automatic refuses to be removed by `apt autoremove` even though it is not required by anyt
+      https://unix.stackexchange.com/questions/652255/a-package-marked-as-automatic-refuses-to-be-removed-by-apt-autoremove-even-tho
+ 52 s= 29 score=   1 ans= 1 2025-06-06 askubuntu HOWTO safely remove "git"
+      https://askubuntu.com/questions/1550094/howto-safely-remove-git
+ 53 s= 29 score=   1 ans= 1 2026-01-14 unix      How to analyze output of systemd dependency graph
+      https://unix.stackexchange.com/questions/803739/how-to-analyze-output-of-systemd-dependency-graph
+ 54 s= 29 score=   0 ans= 1 2021-10-30 askubuntu Unmet Dependencies w/ Python3-dev - Apt seems broken
+      https://askubuntu.com/questions/1372601/unmet-dependencies-w-python3-dev-apt-seems-broken
+ 55 s= 29 score=   0 ans= 1 2022-01-15 unix      Resolving broken unmet dependency with libc6 on mint 20.2
+      https://unix.stackexchange.com/questions/686512/resolving-broken-unmet-dependency-with-libc6-on-mint-20-2
+ 56 s= 29 score=   0 ans= 1 2025-01-15 askubuntu totally removed gjs "sudo apt purge gjs --autoremove", now icons gone
+      https://askubuntu.com/questions/1538261/totally-removed-gjs-sudo-apt-purge-gjs-autoremove-now-icons-gone
+ 57 s= 28 score=   1 ans= 1 2021-11-19 askubuntu Graphics-capable nvidia proprietary drivers with *minimal* dependencies?
+      https://askubuntu.com/questions/1376460/graphics-capable-nvidia-proprietary-drivers-with-minimal-dependencies
+ 58 s= 28 score=   1 ans= 1 2022-11-21 askubuntu getting an error from apt-get autoremove
+      https://askubuntu.com/questions/1441810/getting-an-error-from-apt-get-autoremove
+ 59 s= 28 score=   1 ans= 2 2024-04-22 askubuntu Ubuntu update error not enough space on boot disc. sudo apt autoremove, does not work!
+      https://askubuntu.com/questions/1511243/ubuntu-update-error-not-enough-space-on-boot-disc-sudo-apt-autoremove-does-not
+ 60 s= 28 score=   0 ans= 1 2020-03-09 unix      "sudo apt autoremove" command doesn't work ("/var/cache/debconf/config.dat is locked by another process")
+      https://unix.stackexchange.com/questions/571943/sudo-apt-autoremove-command-doesnt-work-var-cache-debconf-config-dat-is-lo
+ 61 s= 28 score=   0 ans= 0 2020-08-02 askubuntu Errors with updates, upgrades, autoremove Ubuntu 18.04
+      https://askubuntu.com/questions/1263913/errors-with-updates-upgrades-autoremove-ubuntu-18-04
+ 62 s= 28 score=   0 ans= 1 2020-11-06 askubuntu sudo apt-get autoremove error
+      https://askubuntu.com/questions/1290206/sudo-apt-get-autoremove-error
+ 63 s= 28 score=   0 ans= 0 2021-09-16 askubuntu Fix broken install error: paste subprocess was killed by signal (Broken pipe) (NOT DUPLICATE)
+      https://askubuntu.com/questions/1364034/fix-broken-install-error-paste-subprocess-was-killed-by-signal-broken-pipe-n
+ 64 s= 28 score=   0 ans= 1 2023-09-05 askubuntu Ubuntu 20.04 LTS Screen Problems after Running "apt autoremove"
+      https://askubuntu.com/questions/1484731/ubuntu-20-04-lts-screen-problems-after-running-apt-autoremove
+ 65 s= 28 score=   0 ans= 0 2024-02-28 askubuntu Why I got error with held broken packages installing php8.2-dev package?
+      https://askubuntu.com/questions/1505966/why-i-got-error-with-held-broken-packages-installing-php8-2-dev-package
+ 66 s= 28 score=  -1 ans= 1 2022-05-19 askubuntu LiveOS - Uninstallation by `apt purge` is supposed to increase free disk space, but it actually decreases free
+      https://askubuntu.com/questions/1409468/liveos-uninstallation-by-apt-purge-is-supposed-to-increase-free-disk-space
+ 67 s= 28 score=  -1 ans= 1 2023-01-31 askubuntu module 'collections' has no attribute 'Mapping' how to safely reinstall update-notifier-common?
+      https://askubuntu.com/questions/1452800/module-collections-has-no-attribute-mapping-how-to-safely-reinstall-update-n
+ 68 s= 27 score=  14 ans= 1 2022-02-17 askubuntu What is the Difference Between "apt autoremove --purge" & "apt purge --autoremove"
+      https://askubuntu.com/questions/1393525/what-is-the-difference-between-apt-autoremove-purge-apt-purge-autoremov
+ 69 s= 27 score=   7 ans= 2 2022-12-20 askubuntu Snap equivalent of the apt-get autopurge command?
+      https://askubuntu.com/questions/1446531/snap-equivalent-of-the-apt-get-autopurge-command
+ 70 s= 27 score=   4 ans= 1 2026-11-01 unix      How to clean up failed kernel upgrade
+      https://unix.stackexchange.com/questions/807834/how-to-clean-up-failed-kernel-upgrade
+ 71 s= 27 score=   3 ans= 1 2021-08-26 askubuntu Unattended-Upgrades and autoremove dangerous?
+      https://askubuntu.com/questions/1360232/unattended-upgrades-and-autoremove-dangerous
+ 72 s= 27 score=   2 ans= 1 2025-01-08 askubuntu sudo apt autoremove fails
+      https://askubuntu.com/questions/1537495/sudo-apt-autoremove-fails
+ 73 s= 27 score=   2 ans= 1 2025-01-22 unix      How to get reverse dependencies in Debian package manager for installed packages
+      https://unix.stackexchange.com/questions/789966/how-to-get-reverse-dependencies-in-debian-package-manager-for-installed-packages
+ 74 s= 27 score=   1 ans= 1 2020-10-03 askubuntu Forgot to add --purge to autoremove. Will there be any residues?
+      https://askubuntu.com/questions/1279799/forgot-to-add-purge-to-autoremove-will-there-be-any-residues
+ 75 s= 27 score=   1 ans= 0 2021-08-25 unix      Add unused partition `Solaris reserved 1` to mirrored zpool
+      https://unix.stackexchange.com/questions/666169/add-unused-partition-solaris-reserved-1-to-mirrored-zpool
+ 76 s= 27 score=   1 ans= 1 2022-12-22 unix      apt-get autoremove is messing up locale stuff after having installed the gdal-bin package from debian testing 
+      https://unix.stackexchange.com/questions/729341/apt-get-autoremove-is-messing-up-locale-stuff-after-having-installed-the-gdal-bi
+ 77 s= 27 score=   1 ans= 1 2023-07-09 unix      What is the difference between apt purge '~o' and apt --purge autoremove?
+      https://unix.stackexchange.com/questions/751044/what-is-the-difference-between-apt-purge-o-and-apt-purge-autoremove
+ 78 s= 27 score=   1 ans= 1 2023-12-21 askubuntu Reverse command for undoing sudo apt autoremove package-name
+      https://askubuntu.com/questions/1497727/reverse-command-for-undoing-sudo-apt-autoremove-package-name
+ 79 s= 27 score=   0 ans= 2 2020-04-01 askubuntu Unmet dependencies. Try 'apt --fix-broken install'
+      https://askubuntu.com/questions/1223066/unmet-dependencies-try-apt-fix-broken-install
+ 80 s= 27 score=   0 ans= 0 2020-08-25 askubuntu Unable to run apt-get --purge autoremove
+      https://askubuntu.com/questions/1270004/unable-to-run-apt-get-purge-autoremove
+ 81 s= 27 score=   0 ans= 0 2020-11-28 askubuntu python2.7 package unmet dependency problem on Ubuntu
+      https://askubuntu.com/questions/1295805/python2-7-package-unmet-dependency-problem-on-ubuntu
+ 82 s= 27 score=   0 ans= 2 2022-05-29 unix      How to list packages with no manually installed packages in the dependent tree?
+      https://unix.stackexchange.com/questions/704272/how-to-list-packages-with-no-manually-installed-packages-in-the-dependent-tree
+ 83 s= 27 score=   0 ans= 0 2022-07-09 askubuntu Cannot Repair broken dependencies using 'sudo apt --fix-broken install'
+      https://askubuntu.com/questions/1417876/cannot-repair-broken-dependencies-using-sudo-apt-fix-broken-install
+ 84 s= 27 score=   0 ans= 0 2022-10-19 askubuntu How to undo apt autoremove
+      https://askubuntu.com/questions/1436203/how-to-undo-apt-autoremove
+ 85 s= 27 score=   0 ans= 1 2023-08-04 askubuntu Video driver not working after apt autoremove
+      https://askubuntu.com/questions/1481060/video-driver-not-working-after-apt-autoremove
+ 86 s= 27 score=   0 ans= 0 2026-07-30 askubuntu Cannot fix broken dependencies on Ubuntu 22.04
+      https://askubuntu.com/questions/1568724/cannot-fix-broken-dependencies-on-ubuntu-22-04
+ 87 s= 26 score=   3 ans= 4 2020-08-08 unix      How to clean up a Linux installation?
+      https://unix.stackexchange.com/questions/603441/how-to-clean-up-a-linux-installation
+ 88 s= 26 score=   3 ans= 1 2021-09-01 askubuntu Can't install and uninstall packages, can't also remove dde
+      https://askubuntu.com/questions/1361323/cant-install-and-uninstall-packages-cant-also-remove-dde
+ 89 s= 26 score=   2 ans= 2 2020-08-26 askubuntu Nvidia driver 390 broken dependencies install preventing uninstall or new install
+      https://askubuntu.com/questions/1270341/nvidia-driver-390-broken-dependencies-install-preventing-uninstall-or-new-instal
+ 90 s= 26 score=   1 ans= 0 2020-03-23 askubuntu dpkg nvidia package problem dependencies
+      https://askubuntu.com/questions/1219483/dpkg-nvidia-package-problem-dependencies
+ 91 s= 26 score=   0 ans= 0 2020-11-28 askubuntu Unmet dependencies. Try 'apt --fix-broken install' with no packages
+      https://askubuntu.com/questions/1295800/unmet-dependencies-try-apt-fix-broken-install-with-no-packages
+ 92 s= 26 score=   0 ans= 1 2021-02-19 unix      how many types of orphan package are there
+      https://unix.stackexchange.com/questions/635298/how-many-types-of-orphan-package-are-there
+ 93 s= 26 score=   0 ans= 0 2021-08-09 askubuntu Apt broken / broken dependencies / python3.9 libraries issues
+      https://askubuntu.com/questions/1356947/apt-broken-broken-dependencies-python3-9-libraries-issues
+ 94 s= 25 score=   3 ans= 1 2023-02-14 askubuntu Which kernel version to delete when low disk space on /boot?
+      https://askubuntu.com/questions/1454878/which-kernel-version-to-delete-when-low-disk-space-on-boot
+ 95 s= 25 score=   2 ans= 1 2021-10-16 askubuntu How to fix synaptic: error while loading shared libraries: libxapian.so.30: cannot open shared?
+      https://askubuntu.com/questions/1369673/how-to-fix-synaptic-error-while-loading-shared-libraries-libxapian-so-30-cann
+ 96 s= 25 score=   1 ans= 0 2020-03-15 unix      Why does `nix-store -q --tree` show autodependencies?
+      https://unix.stackexchange.com/questions/573058/why-does-nix-store-q-tree-show-autodependencies
+ 97 s= 25 score=   1 ans= 0 2020-04-21 unix      Installed package number rarely equals removed package number
+      https://unix.stackexchange.com/questions/581443/installed-package-number-rarely-equals-removed-package-number
+ 98 s= 25 score=   1 ans= 1 2020-11-03 askubuntu Unable to fix libwine-development dependencies on Ubuntu 20.04
+      https://askubuntu.com/questions/1289318/unable-to-fix-libwine-development-dependencies-on-ubuntu-20-04
+ 99 s= 25 score=   1 ans= 0 2023-02-23 askubuntu dpkg: dependency problems prevent configuration i386
+      https://askubuntu.com/questions/1456416/dpkg-dependency-problems-prevent-configuration-i386
+100 s= 25 score=   1 ans= 1 2024-08-02 unix      Strange .deb dependency-problem in Linux Mint 22
+      https://unix.stackexchange.com/questions/781246/strange-deb-dependency-problem-in-linux-mint-22
+101 s= 25 score=   0 ans= 0 2020-12-05 askubuntu Software Updater (update-manager) not working in Ubuntu 20.04
+      https://askubuntu.com/questions/1297697/software-updater-update-manager-not-working-in-ubuntu-20-04
+102 s= 25 score=   0 ans= 2 2023-06-24 askubuntu How to fix broken libc6 dependencies
+      https://askubuntu.com/questions/1474551/how-to-fix-broken-libc6-dependencies
+103 s= 25 score=   0 ans= 0 2024-05-22 askubuntu Unable to locate Nvidia Nsight or fix the broken package or stop it
+      https://askubuntu.com/questions/1514964/unable-to-locate-nvidia-nsight-or-fix-the-broken-package-or-stop-it
+104 s= 25 score=   0 ans= 3 2024-09-07 unix      how to fix broken dependencies for freecad install on PopOS 22.04 LTS
+      https://unix.stackexchange.com/questions/783178/how-to-fix-broken-dependencies-for-freecad-install-on-popos-22-04-lts
+105 s= 24 score=   4 ans= 1 2021-07-16 askubuntu Why would installed packages have status "Remove"?
+      https://askubuntu.com/questions/1352226/why-would-installed-packages-have-status-remove
+106 s= 24 score=   3 ans= 1 2022-11-13 unix      APT cannot install libc6:i386, unmet dependency
+      https://unix.stackexchange.com/questions/724728/apt-cannot-install-libc6i386-unmet-dependency
+107 s= 24 score=   2 ans= 0 2020-03-15 askubuntu apt wants to free my whole disk space
+      https://askubuntu.com/questions/1217280/apt-wants-to-free-my-whole-disk-space
+108 s= 24 score=   2 ans= 2 2021-06-15 askubuntu Broken update and package mess: how do I remove old packages manually?
+      https://askubuntu.com/questions/1346097/broken-update-and-package-mess-how-do-i-remove-old-packages-manually
+109 s= 24 score=   2 ans= 1 2022-10-19 askubuntu New install 22.04 Desktop, "apt-get autoremove" breaks something and doesn't boot
+      https://askubuntu.com/questions/1436182/new-install-22-04-desktop-apt-get-autoremove-breaks-something-and-doesnt-boo
+110 s= 24 score=   2 ans= 2 2025-12-17 askubuntu How unsafe is it to always update, upgrade, and autoremove?
+      https://askubuntu.com/questions/1561941/how-unsafe-is-it-to-always-update-upgrade-and-autoremove
+111 s= 24 score=   2 ans= 1 2026-02-17 unix      apt remove does not fail upon removing a package that is a dependency of another
+      https://unix.stackexchange.com/questions/804528/apt-remove-does-not-fail-upon-removing-a-package-that-is-a-dependency-of-another
+112 s= 24 score=   1 ans= 1 2025-11-24 unix      apt-get autoremove during Debian 13 upgrade removed packages I need - how to get them back?
+      https://unix.stackexchange.com/questions/801587/apt-get-autoremove-during-debian-13-upgrade-removed-packages-i-need-how-to-get
+113 s= 24 score=   0 ans= 0 2020-09-19 askubuntu APT doesn't remove Nginx and all related packages with $ sudo apt autoremove --purge nginx
+      https://askubuntu.com/questions/1276369/apt-doesnt-remove-nginx-and-all-related-packages-with-sudo-apt-autoremove-p
+114 s= 24 score=   0 ans= 2 2021-02-24 unix      How do I clean up packages that have been purged that are still showing up on "apt get update" command?
+      https://unix.stackexchange.com/questions/636220/how-do-i-clean-up-packages-that-have-been-purged-that-are-still-showing-up-on-a
+115 s= 24 score=   0 ans= 0 2021-06-02 unix      What information gathering should be done in order to collect why yum autoremove nmap* causes mariadb/npcd/htt
+      https://unix.stackexchange.com/questions/652425/what-information-gathering-should-be-done-in-order-to-collect-why-yum-autoremove
+116 s= 24 score=   0 ans= 0 2021-10-02 askubuntu Clean up the /boot directory in 20.04
+      https://askubuntu.com/questions/1367060/clean-up-the-boot-directory-in-20-04
+117 s= 24 score=   0 ans= 0 2023-03-06 askubuntu lensfun install failure
+      https://askubuntu.com/questions/1458050/lensfun-install-failure
+118 s= 24 score=   0 ans= 0 2023-05-03 askubuntu My do-release-upgrade to 23.04 (from 22.10) failed and now apt lists many packages suitable for autoremove
+      https://askubuntu.com/questions/1466396/my-do-release-upgrade-to-23-04-from-22-10-failed-and-now-apt-lists-many-packag
+119 s= 24 score=   0 ans= 0 2023-06-03 askubuntu Not enough free disk space on /boot
+      https://askubuntu.com/questions/1470498/not-enough-free-disk-space-on-boot
+120 s= 24 score=  -2 ans= 1 2021-08-14 askubuntu i am new to Linux. Setting up kernal and tree first time to my system having the issue in setting up Building 
+      https://askubuntu.com/questions/1358005/i-am-new-to-linux-setting-up-kernal-and-tree-first-time-to-my-system-having-the
+121 s= 23 score=   3 ans= 1 2024-08-24 askubuntu Print tree of uninstalled dependencies and their filesizes for apt packages
+      https://askubuntu.com/questions/1524293/print-tree-of-uninstalled-dependencies-and-their-filesizes-for-apt-packages
+122 s= 23 score=   2 ans= 2 2021-10-15 unix      Unmet Dependencies ubuntu-desktop
+      https://unix.stackexchange.com/questions/673340/unmet-dependencies-ubuntu-desktop
+123 s= 23 score=   1 ans= 0 2022-09-27 askubuntu Help with a recurring error message
+      https://askubuntu.com/questions/1432540/help-with-a-recurring-error-message
+124 s= 23 score=   0 ans= 0 2020-07-04 askubuntu Gnome got autoremoved (18.04)
+      https://askubuntu.com/questions/1256231/gnome-got-autoremoved-18-04
+125 s= 23 score=   0 ans= 0 2020-07-25 unix      Kali 2020.3 ModuleNotFound 'ConfigParser' after apt full upgrade
+      https://unix.stackexchange.com/questions/600321/kali-2020-3-modulenotfound-configparser-after-apt-full-upgrade
+126 s= 23 score=   0 ans= 0 2020-08-08 askubuntu Is it safe to remove Firefox this way?
+      https://askubuntu.com/questions/1265557/is-it-safe-to-remove-firefox-this-way
+127 s= 23 score=   0 ans= 1 2021-01-07 askubuntu 20.04 to 20.10 Upgrade made apt autoremove want to delete everything!
+      https://askubuntu.com/questions/1305950/20-04-to-20-10-upgrade-made-apt-autoremove-want-to-delete-everything
+128 s= 23 score=   0 ans= 0 2021-04-05 askubuntu Ran "sudo apt remove python3.8" but still has python3 & everything is broken
+      https://askubuntu.com/questions/1329347/ran-sudo-apt-remove-python3-8-but-still-has-python3-everything-is-broken
+129 s= 23 score=   0 ans= 1 2021-06-13 askubuntu Error opening the cache
+      https://askubuntu.com/questions/1345623/error-opening-the-cache
+130 s= 23 score=   0 ans= 1 2021-09-18 askubuntu Update Related Issue, Software & Updates not working
+      https://askubuntu.com/questions/1364406/update-related-issue-software-updates-not-working
+131 s= 23 score=   0 ans= 0 2022-02-11 askubuntu How to rescue after apt install or upgrade fills disk space and breaks?
+      https://askubuntu.com/questions/1392266/how-to-rescue-after-apt-install-or-upgrade-fills-disk-space-and-breaks
+132 s= 23 score=   0 ans= 0 2023-06-09 askubuntu sudo apt install works, but sudo apt-get purge --autoremove leaving a lot of junk on my system. Can't remove t
+      https://askubuntu.com/questions/1471660/sudo-apt-install-works-but-sudo-apt-get-purge-autoremove-leaving-a-lot-of-jun
+133 s= 23 score=   0 ans= 1 2024-04-07 unix      Why does KDE's Discover and Apper show "orphan-sysvinit-scripts" should be updated but not apt-get upgrade ---
+      https://unix.stackexchange.com/questions/774015/why-does-kdes-discover-and-apper-show-orphan-sysvinit-scripts-should-be-updat
+134 s= 23 score=   0 ans= 0 2025-01-21 askubuntu Can I remove everything about printing?
+      https://askubuntu.com/questions/1538811/can-i-remove-everything-about-printing
+135 s= 23 score=   0 ans= 2 2025-11-14 unix      Can't complete upgrade to Debian13 for plymouth & initramfs-tools due to no disk space left (on /boot?)
+      https://unix.stackexchange.com/questions/801326/cant-complete-upgrade-to-debian13-for-plymouth-initramfs-tools-due-to-no-disk
+136 s= 22 score=   3 ans= 1 2022-08-28 askubuntu How do I use apt *without* fixing unmet dependencies in unrelated packages?
+      https://askubuntu.com/questions/1426199/how-do-i-use-apt-without-fixing-unmet-dependencies-in-unrelated-packages
+137 s= 22 score=   3 ans= 1 2025-02-23 unix      Unmet dependencies when trying to install openssh on Debian 12
+      https://unix.stackexchange.com/questions/791494/unmet-dependencies-when-trying-to-install-openssh-on-debian-12
+138 s= 22 score=   2 ans= 1 2021-05-14 unix      What does it mean when unattended-upgrades reports [package on hold]?
+      https://unix.stackexchange.com/questions/649702/what-does-it-mean-when-unattended-upgrades-reports-package-on-hold
+139 s= 22 score=   2 ans= 1 2022-05-13 unix      Udev, libpam-systemd, systemd-sysv and systemd dependencies errors causes apt to be unusable
+      https://unix.stackexchange.com/questions/702334/udev-libpam-systemd-systemd-sysv-and-systemd-dependencies-errors-causes-apt-to
+140 s= 22 score=   2 ans= 2 2023-11-17 unix      semaphore (gui ansible) can forward root password
+      https://unix.stackexchange.com/questions/761700/semaphore-gui-ansible-can-forward-root-password
+141 s= 22 score=   2 ans= 0 2024-04-06 unix      How to Free Up Space on Full overlay and /dev/vda1 Filesystems in a Linux Environment?
+      https://unix.stackexchange.com/questions/773972/how-to-free-up-space-on-full-overlay-and-dev-vda1-filesystems-in-a-linux-enviro
+142 s= 22 score=   1 ans= 1 2024-11-27 askubuntu Safely removing unrecognised snaps and snap itself
+      https://askubuntu.com/questions/1534061/safely-removing-unrecognised-snaps-and-snap-itself
+143 s= 22 score=   0 ans= 0 2023-06-28 askubuntu broken linux-generic or linux-headers-generic dependencies REDUX
+      https://askubuntu.com/questions/1475207/broken-linux-generic-or-linux-headers-generic-dependencies-redux
+144 s= 22 score=   0 ans= 1 2024-02-03 askubuntu Unmet dependencies and broken packages error while I tried to upgrade Ubuntu 22.04
+      https://askubuntu.com/questions/1502298/unmet-dependencies-and-broken-packages-error-while-i-tried-to-upgrade-ubuntu-22
+145 s= 22 score=  -1 ans= 4 2022-07-24 unix      dpkg: error processing package linux-image-amd64 (--configure): dependency problems - leaving unconfigured
+      https://unix.stackexchange.com/questions/711100/dpkg-error-processing-package-linux-image-amd64-configure-dependency-probl
+146 s= 21 score=   3 ans= 0 2022-04-10 unix      When to clean up /var/tmp?
+      https://unix.stackexchange.com/questions/698677/when-to-clean-up-var-tmp
+147 s= 21 score=   2 ans= 1 2020-04-05 unix      Broken Debian Packages
+      https://unix.stackexchange.com/questions/578129/broken-debian-packages
+148 s= 21 score=   2 ans= 1 2021-07-23 unix      apt broken after trying to update and install without internet
+      https://unix.stackexchange.com/questions/659616/apt-broken-after-trying-to-update-and-install-without-internet
+149 s= 21 score=   2 ans= 1 2023-03-26 askubuntu Why am I getting ImportError when running Nala with Ubuntu server upgraded to 22.04?
+      https://askubuntu.com/questions/1461034/why-am-i-getting-importerror-when-running-nala-with-ubuntu-server-upgraded-to-22
+150 s= 21 score=   2 ans= 1 2024-11-26 unix      How exactly does graphical-session.target start or get started
+      https://unix.stackexchange.com/questions/787236/how-exactly-does-graphical-session-target-start-or-get-started
+151 s= 21 score=   1 ans= 2 2021-05-04 askubuntu My RStudio Application suddenly do not working, kindly look into it
+      https://askubuntu.com/questions/1336085/my-rstudio-application-suddenly-do-not-working-kindly-look-into-it
+152 s= 21 score=   1 ans= 0 2023-02-01 askubuntu Ubuntu apt upgrades increasing and getting skipped
+      https://askubuntu.com/questions/1452899/ubuntu-apt-upgrades-increasing-and-getting-skipped
+153 s= 21 score=   1 ans= 1 2023-07-15 unix      How do I resolve this GStreamer codec update fault?
+      https://unix.stackexchange.com/questions/751576/how-do-i-resolve-this-gstreamer-codec-update-fault
+154 s= 21 score=   1 ans= 2 2025-05-14 askubuntu unattended upgrade not picking up latest updates
+      https://askubuntu.com/questions/1547718/unattended-upgrade-not-picking-up-latest-updates
+155 s= 21 score=   0 ans= 0 2020-03-20 askubuntu Accidently removed python by "sudo apt-get remove python"
+      https://askubuntu.com/questions/1218684/accidently-removed-python-by-sudo-apt-get-remove-python
+156 s= 21 score=   0 ans= 1 2020-07-08 askubuntu Steam/Ubuntu help - broken packages/unmet dependencies - can't upgrade
+      https://askubuntu.com/questions/1257281/steam-ubuntu-help-broken-packages-unmet-dependencies-cant-upgrade
+157 s= 21 score=   0 ans= 0 2021-10-17 unix      How to undo/fix autoremove's change to initramfs-tools? (Causes error in Whonix)
+      https://unix.stackexchange.com/questions/673583/how-to-undo-fix-autoremoves-change-to-initramfs-tools-causes-error-in-whonix
+158 s= 21 score=   0 ans= 0 2021-12-03 unix      Broken Dependencies
+      https://unix.stackexchange.com/questions/680015/broken-dependencies
+159 s= 21 score=   0 ans= 1 2021-12-22 askubuntu held broken packages - unmet dependencies
+      https://askubuntu.com/questions/1383309/held-broken-packages-unmet-dependencies
+160 s= 21 score=   0 ans= 3 2022-06-21 askubuntu Increase the number of old kernels to keep on autoremove in Ubuntu 22.04
+      https://askubuntu.com/questions/1415074/increase-the-number-of-old-kernels-to-keep-on-autoremove-in-ubuntu-22-04
+161 s= 21 score=   0 ans= 2 2023-05-01 unix      Linux crossbuild essential armhf broken packages
+      https://unix.stackexchange.com/questions/744627/linux-crossbuild-essential-armhf-broken-packages
+162 s= 21 score=   0 ans= 1 2023-10-07 unix      Removing linux-image-5.10.0-21-amd64, linux-image-5.10.0-23-amd64 packages
+      https://unix.stackexchange.com/questions/758373/removing-linux-image-5-10-0-21-amd64-linux-image-5-10-0-23-amd64-packages
+163 s= 21 score=  -1 ans= 1 2023-01-29 askubuntu E: Unable to locate package xgraph error on Ubuntu 20.04 in virtual machine
+      https://askubuntu.com/questions/1452436/e-unable-to-locate-package-xgraph-error-on-ubuntu-20-04-in-virtual-machine
+164 s= 21 score=  -4 ans= 1 2026-10-21 askubuntu do-release-upgrade insufficient disk space workaround
+      https://askubuntu.com/questions/1570508/do-release-upgrade-insufficient-disk-space-workaround
+165 s= 20 score=  21 ans= 2 2022-06-27 unix      Getting rid of "The following packages will be DOWNGRADED"
+      https://unix.stackexchange.com/questions/707670/getting-rid-of-the-following-packages-will-be-downgraded
+166 s= 20 score=   3 ans= 1 2021-12-28 unix      How to interpret `apt-cache rdepends` to pinpoint dependency?
+      https://unix.stackexchange.com/questions/684141/how-to-interpret-apt-cache-rdepends-to-pinpoint-dependency
+167 s= 20 score=   3 ans= 1 2025-06-08 unix      Why can the Linux device tree compiler not resolve this label for an alias?
+      https://unix.stackexchange.com/questions/796796/why-can-the-linux-device-tree-compiler-not-resolve-this-label-for-an-alias
+168 s= 20 score=   2 ans= 4 2020-09-18 askubuntu Unable to install wine32 due to broken packages
+      https://askubuntu.com/questions/1275983/unable-to-install-wine32-due-to-broken-packages
+169 s= 20 score=   2 ans= 1 2021-08-14 unix      Debian Package Manager broken
+      https://unix.stackexchange.com/questions/664679/debian-package-manager-broken
+170 s= 20 score=   2 ans= 1 2021-10-16 unix      'apt upgrade' was interrupted, I did 'apt autoremove' afterwards. System completely ripped out
+      https://unix.stackexchange.com/questions/673443/apt-upgrade-was-interrupted-i-did-apt-autoremove-afterwards-system-complet
+171 s= 20 score=   2 ans= 1 2023-02-23 askubuntu Unmet dependencies: containerd : Breaks: docker.io
+      https://askubuntu.com/questions/1456349/unmet-dependencies-containerd-breaks-docker-io
+172 s= 20 score=   1 ans= 1 2021-04-29 askubuntu How can I fix Libreoffice after apt autoremove broke it?
+      https://askubuntu.com/questions/1334953/how-can-i-fix-libreoffice-after-apt-autoremove-broke-it
+173 s= 20 score=   1 ans= 2 2022-03-09 askubuntu Is it Safe to Remove gnome-software?
+      https://askubuntu.com/questions/1396786/is-it-safe-to-remove-gnome-software
+174 s= 20 score=   1 ans= 1 2022-07-15 askubuntu apt --fix-broken install does not fix dependencies
+      https://askubuntu.com/questions/1418856/apt-fix-broken-install-does-not-fix-dependencies
+175 s= 20 score=   0 ans= 1 2020-03-27 askubuntu What exactly is causing Debian to want to put packages up for "autoremove"?
+      https://askubuntu.com/questions/1220563/what-exactly-is-causing-debian-to-want-to-put-packages-up-for-autoremove
+176 s= 20 score=   0 ans= 0 2020-04-11 askubuntu How to safely remove "extra" python on Ubuntu 18.04?
+      https://askubuntu.com/questions/1226121/how-to-safely-remove-extra-python-on-ubuntu-18-04
+177 s= 20 score=   0 ans= 1 2020-11-17 askubuntu What is autoremove trying to do?
+      https://askubuntu.com/questions/1293010/what-is-autoremove-trying-to-do
+178 s= 20 score=   0 ans= 1 2022-04-18 askubuntu apt broken (unmet dependencies) after trying to install mysql
+      https://askubuntu.com/questions/1403019/apt-broken-unmet-dependencies-after-trying-to-install-mysql
+179 s= 20 score=   0 ans= 0 2022-06-07 askubuntu Ubuntu Desktop 22.04 Boot Hangs Every Time: Zeroconf Dependencies?
+      https://askubuntu.com/questions/1412783/ubuntu-desktop-22-04-boot-hangs-every-time-zeroconf-dependencies
+180 s= 20 score=   0 ans= 1 2023-06-12 unix      apt Unmet dependencies. Try 'apt --fix-broken install' with no packages (or specify a solution)
+      https://unix.stackexchange.com/questions/748665/apt-unmet-dependencies-try-apt-fix-broken-install-with-no-packages-or-spec
+181 s= 20 score=   0 ans= 1 2023-10-15 askubuntu Dependency problem libsensors4
+      https://askubuntu.com/questions/1489191/dependency-problem-libsensors4
+182 s= 20 score=   0 ans= 1 2024-01-04 askubuntu How to free disk space from snaps
+      https://askubuntu.com/questions/1498951/how-to-free-disk-space-from-snaps
+183 s= 20 score=   0 ans= 1 2024-01-12 askubuntu dpkg: dependency problems prevent removal of r-base-core in ubuntu 20.4
+      https://askubuntu.com/questions/1499797/dpkg-dependency-problems-prevent-removal-of-r-base-core-in-ubuntu-20-4
+184 s= 19 score=   3 ans= 3 2023-06-30 askubuntu dpkg dependency problems: Package python3 is not configured yet
+      https://askubuntu.com/questions/1475512/dpkg-dependency-problems-package-python3-is-not-configured-yet
+185 s= 19 score=   2 ans= 2 2020-09-30 unix      So, I tried t install git-all and it removed various gnome packages in my system, I don't really know the reas
+      https://unix.stackexchange.com/questions/612272/so-i-tried-t-install-git-all-and-it-removed-various-gnome-packages-in-my-system
+186 s= 19 score=   2 ans= 1 2023-07-23 unix      apt/dpkg not working due to linux-image/firmware problems
+      https://unix.stackexchange.com/questions/752221/apt-dpkg-not-working-due-to-linux-image-firmware-problems
+187 s= 19 score=   1 ans= 0 2021-02-08 askubuntu After fresh install of Ubuntu 20.04 over 200 packages can be removed with apt autoremove
+      https://askubuntu.com/questions/1314774/after-fresh-install-of-ubuntu-20-04-over-200-packages-can-be-removed-with-apt-au
+188 s= 19 score=   1 ans= 1 2023-08-27 askubuntu LibreOffice Writer crashes for a single user on Ubuntu
+      https://askubuntu.com/questions/1483800/libreoffice-writer-crashes-for-a-single-user-on-ubuntu
+189 s= 19 score=   0 ans= 1 2020-10-15 unix      NPi i.MX6ULL Linux SBC - Difficulty Finding Linux Headers
+      https://unix.stackexchange.com/questions/614686/npi-i-mx6ull-linux-sbc-difficulty-finding-linux-headers
+190 s= 19 score=   0 ans= 1 2022-06-28 unix      missing package libc6-i386
+      https://unix.stackexchange.com/questions/707886/missing-package-libc6-i386
+191 s= 19 score=   0 ans= 2 2023-01-05 unix      Fix broken dependency on Ubuntu 22.04 - mysterious libnvidia-nscq does not allow update or installation of exi
+      https://unix.stackexchange.com/questions/730657/fix-broken-dependency-on-ubuntu-22-04-mysterious-libnvidia-nscq-does-not-allow
+192 s= 19 score=   0 ans= 0 2024-09-17 askubuntu Why does APT gives priority to a higher version of a package?
+      https://askubuntu.com/questions/1527114/why-does-apt-gives-priority-to-a-higher-version-of-a-package
+193 s= 19 score=   0 ans= 0 2025-01-09 unix      Safely Minimizing Ubuntu 24 installation?
+      https://unix.stackexchange.com/questions/789318/safely-minimizing-ubuntu-24-installation
+194 s= 19 score=  -1 ans= 1 2023-07-24 askubuntu Unable to install Synaptic Package Manager
+      https://askubuntu.com/questions/1479388/unable-to-install-synaptic-package-manager
+195 s= 18 score=  21 ans= 3 2022-02-01 askubuntu Why does today's kernel update need half a gigabyte of disk space?
+      https://askubuntu.com/questions/1390466/why-does-todays-kernel-update-need-half-a-gigabyte-of-disk-space
+196 s= 18 score=  16 ans= 3 2020-04-28 askubuntu Installing odbcins1debian2, broken dependency on Ubuntu 20.04 LTS
+      https://askubuntu.com/questions/1232332/installing-odbcins1debian2-broken-dependency-on-ubuntu-20-04-lts
+197 s= 18 score=  13 ans= 5 2022-03-09 askubuntu Low disk space on Filesystem root despite having plenty of space in `home`
+      https://askubuntu.com/questions/1396769/low-disk-space-on-filesystem-root-despite-having-plenty-of-space-in-home
+198 s= 18 score=   8 ans= 0 2022-04-28 unix      Is there a nice nftables ruleset visualizer?
+      https://unix.stackexchange.com/questions/700733/is-there-a-nice-nftables-ruleset-visualizer
+199 s= 18 score=   5 ans= 2 2024-05-26 askubuntu When did `apt` output change to include "Done" after "Building dependency tree"?
+      https://askubuntu.com/questions/1515426/when-did-apt-output-change-to-include-done-after-building-dependency-tree
+200 s= 18 score=   4 ans= 2 2021-03-21 unix      How to reinstall pulseaudio when dependencies are mismatching?
+      https://unix.stackexchange.com/questions/640324/how-to-reinstall-pulseaudio-when-dependencies-are-mismatching

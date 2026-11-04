@@ -1,0 +1,16 @@
+unused packages -> 30
+unused dependencies -> 0
+orphaned packages -> 0
+dependency tree -> 0
+dependency graph -> 0
+autoremove -> 0
+remove packages safely -> 0
+disk space packages -> 0
+clean up packages -> 0
+pacman -Qtd -> 0
+reverse dependencies -> 0
+visualize dependencies -> 0
+unneeded packages -> 0
+remove dependencies -> 0
+fetched 25 / 30
+TOTAL unique topics: 30

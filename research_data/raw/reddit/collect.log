@@ -1,0 +1,43 @@
+[1/60] cached linux :: unused packages -> 15
+[2/60] cached linux :: unused dependencies -> 8
+[3/60] cached linux :: orphaned packages -> 8
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+[4/60] FAILED linux :: dependency tree
+[5/60] cached linux :: dependency graph -> 8
+[6/60] cached linux :: autoremove -> 28
+[7/60] cached linuxquestions :: unused packages -> 34
+[8/60] cached linuxquestions :: unused dependencies -> 11
+[9/60] cached linuxquestions :: orphaned packages -> 11
+[10/60] linuxquestions :: dependency tree -> 100
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+[11/60] FAILED linuxquestions :: dependency graph
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+[12/60] linuxquestions :: autoremove -> 100
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+[13/60] linux4noobs :: unused packages -> 18
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+[14/60] FAILED linux4noobs :: unused dependencies
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+[15/60] linux4noobs :: orphaned packages -> 13
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+[16/60] linux4noobs :: dependency tree -> 100
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+  HTTP 422: {"data":null,"error":"Timeout. Maybe slow down a bit"}
+[17/60] FAILED linux4noobs :: dependency graph
