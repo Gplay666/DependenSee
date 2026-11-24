@@ -1,0 +1,5 @@
+family,count,share_pct,top_category,top_category_count,top_category_share_pct
+Debian/Ubuntu,60,44.8,removal_safety,23,38.3
+Fedora/RHEL,31,23.1,removal_safety,9,29.0
+Arch,22,16.4,orphaned_packages,8,36.4
+Не указан,21,15.7,unused_packages,5,23.8

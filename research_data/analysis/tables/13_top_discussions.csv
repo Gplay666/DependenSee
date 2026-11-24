@@ -1,0 +1,16 @@
+id,platform,category,comments,score,title,url
+DS-056,Reddit,unused_packages,79,32,What is the best strategy to avoid that a desktop system becomes littered with unused packages after some years?,https://www.reddit.com/r/linuxquestions/comments/1bqmx4k/what_is_the_best_strategy_to_avoid_that_a_desktop/
+DS-132,Reddit,removal_safety,62,49,"New to linux, can someone please explain what this means?",https://www.reddit.com/r/linuxquestions/comments/enadiz/new_to_linux_can_someone_please_explain_what_this/
+DS-048,Reddit,removal_safety,60,42,"Did ""sudo apt autoremove"" on 22.04 and restarted the laptop to see this, now everytime I turn on and restart, it goes into BIOS, going into Boot menu and selecting Ubuntu also doesn't do anything. Any fix? Or I need to reinstall an OS",https://www.reddit.com/r/linuxquestions/comments/1dvug6d/did_sudo_apt_autoremove_on_2204_and_restarted_the/
+DS-083,Reddit,cleanup_disk_space,40,81,"Do you use a bash script to update, clean-up and and fixes to keep your system running smoothly?",https://www.reddit.com/r/linuxquestions/comments/xni4kx/do_you_use_a_bash_script_to_update_cleanup_and/
+DS-077,Fedora Discussion,removal_safety,37,,Sudo dnf autoremove wants to remove qt?!,https://discussion.fedoraproject.org/t/sudo-dnf-autoremove-wants-to-remove-qt/75504
+DS-014,Fedora Discussion,cleanup_disk_space,26,,How to clear old unused Wine packages from Fed 43 for new install Fed 44,https://discussion.fedoraproject.org/t/how-to-clear-old-unused-wine-packages-from-fed-43-for-new-install-fed-44/189764
+DS-081,Reddit,package_tool_usability,25,0,A rootless package manager concept,https://www.reddit.com/r/linux/comments/ypt68f/a_rootless_package_manager_concept/
+DS-030,Reddit,removal_safety,23,0,is it safe to always use sudo apt autoremove?,https://www.reddit.com/r/linuxquestions/comments/1kzq6k5/is_it_safe_to_always_use_sudo_apt_autoremove/
+DS-022,Reddit,unused_packages,22,2,What to keep before fresh install,https://www.reddit.com/r/linux4noobs/comments/1prk9d6/what_to_keep_before_fresh_install/
+DS-016,Reddit,removal_safety,22,0,Can I trust Gemini (about apt autoremove) ?,https://www.reddit.com/r/linuxquestions/comments/1sao02p/can_i_trust_gemini_about_apt_autoremove/
+DS-026,Fedora Discussion,removal_safety,20,,Removing Cantarell-VF fonts from Store cause removing GNOME Shell in F43,https://discussion.fedoraproject.org/t/removing-cantarell-vf-fonts-from-store-cause-removing-gnome-shell-in-f43/166684
+DS-069,Fedora Discussion,removal_safety,20,,How to fix dnf autoremove attempting to remove many essential packages after upgrade to 38?,https://discussion.fedoraproject.org/t/how-to-fix-dnf-autoremove-attempting-to-remove-many-essential-packages-after-upgrade-to-38/83679
+DS-133,Reddit,removal_safety,18,30,Sudo apt-get autoremove,https://www.reddit.com/r/linux4noobs/comments/em7mbf/sudo_aptget_autoremove/
+DS-031,Reddit,package_tool_usability,18,0,Is there a Linux equivalent to Revo Uninstaller for Windows?,https://www.reddit.com/r/linuxquestions/comments/1kt041h/is_there_a_linux_equivalent_to_revo_uninstaller/
+DS-009,Reddit,unused_packages,17,4,How do you handle packages and system clutter? Having a maintained system?,https://www.reddit.com/r/linuxquestions/comments/1vrjw7m/how_do_you_handle_packages_and_system_clutter/

@@ -1,0 +1,10 @@
+tool,class,source_type,url,http_status,stars,forks,open_issues,last_push,license,included_in_matrix,comment
+LDG (Linux Dependency Guide),Прямой аналог,GitHub API,https://github.com/RubensRainelli/linux-dependency-guide,200,20,0,0,2026-06-18,NOASSERTION (PEFL 1.0),да,Метрики GitHub перепроверены 2026-11-24.
+Graphite,Прямой аналог,GitHub API,https://github.com/CacheUseOnly/graphite,200,11,0,1,2026-05-08,GPL-3.0,да,Публичных релизов на странице проекта не указано.
+Starfish,Прямой аналог,GitHub API,https://github.com/Seafoam-Labs/Starfish,200,21,1,0,2026-09-25,GPL-3.0,да,Ориентирован на Arch/ALPM.
+debtree,Специализированный инструмент,Debian man page,https://manpages.debian.org/trixie/debtree/debtree.1.en.html,200,,,,,См. debian/copyright,да,Не GitHub-проект; звёзды неприменимы.
+apt-rdepends,Специализированный инструмент,Debian man page,https://manpages.debian.org/bookworm/apt-rdepends/apt-rdepends.1.en.html,200,,,,,См. debian/copyright,да,Не GitHub-проект; звёзды неприменимы.
+pacwall,Специализированный инструмент,GitHub API,https://github.com/Kharacternyk/pacwall,200,583,34,7,2026-02-20,GPL-3.0,да,Метрики GitHub перепроверены 2026-11-24.
+mpm (Meta Package Manager),Смежное решение,GitHub API,https://github.com/kdeldycke/meta-package-manager,200,632,53,16,2026-11-24,GPL-2.0,да,Метрики GitHub перепроверены 2026-11-24.
+aptitude,Смежное решение,Debian manual,https://www.debian.org/doc/manuals/aptitude/rn01re01.en.html,200,,,,,См. copyright пакета,да,Не GitHub-проект; звёзды неприменимы.
+URPM,Смежное решение,GitHub API,https://github.com/MrNaji1/URPM,404,,,,,,нет,Репозиторий недоступен (404) на 2026-11-24. Функции из старого описания не подтверждены и исключены из количественной матрицы.

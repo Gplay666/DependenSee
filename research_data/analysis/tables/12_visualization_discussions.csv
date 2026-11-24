@@ -1,0 +1,9 @@
+id,platform,date,category,mentions_safety,title,url
+DS-007,Fedora Discussion,2026-09-13,visualization_request,нет,Interactive package dependency tree,https://discussion.fedoraproject.org/t/interactive-package-dependency-tree/201981
+DS-009,Reddit,2026-08-18,unused_packages,да,How do you handle packages and system clutter? Having a maintained system?,https://www.reddit.com/r/linuxquestions/comments/1vrjw7m/how_do_you_handle_packages_and_system_clutter/
+DS-043,Fedora Discussion,2024-08-29,visualization_request,нет,How do I find what packages depend on a given package as a tree?,https://discussion.fedoraproject.org/t/how-do-i-find-what-packages-depend-on-a-given-package-as-a-tree/130058
+DS-044,Ask Ubuntu,2024-08-24,visualization_request,нет,Print tree of uninstalled dependencies and their filesizes for apt packages,https://askubuntu.com/questions/1524293/print-tree-of-uninstalled-dependencies-and-their-filesizes-for-apt-packages
+DS-058,Reddit,2024-03-22,visualization_request,нет,Is there a tool like Dependency Walker for Linux that can show which funtions are imported from which .so files?,https://www.reddit.com/r/linux4noobs/comments/1bkvo0u/is_there_a_tool_like_dependency_walker_for_linux/
+DS-082,Ask Ubuntu,2022-10-07,visualization_request,нет,Show resolved APT package dependency tree,https://askubuntu.com/questions/1434227/show-resolved-apt-package-dependency-tree
+DS-108,Unix & Linux SE,2021-04-07,visualization_request,нет,"apt/aptitude - How can I display a package dependency tree for a collection of packages, taken as a whole?",https://unix.stackexchange.com/questions/643979/apt-aptitude-how-can-i-display-a-package-dependency-tree-for-a-collection-of-p
+DS-124,Reddit,2020-05-18,visualization_request,нет,Any way to slim down a bloated default install?,https://www.reddit.com/r/linux4noobs/comments/gmd21u/any_way_to_slim_down_a_bloated_default_install/

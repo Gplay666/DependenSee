@@ -1,0 +1,10 @@
+category,label_ru,count,share_pct
+removal_safety,Безопасность удаления,37,27.6
+unused_packages,Неиспользуемые пакеты,22,16.4
+cleanup_disk_space,Очистка и место на диске,20,14.9
+package_tool_usability,Удобство инструментов,16,11.9
+dependency_opacity,Непрозрачность зависимостей,15,11.2
+orphaned_packages,Orphan-пакеты,10,7.5
+visualization_request,Запрос визуализации,7,5.2
+package_inventory,Инвентаризация пакетов,4,3.0
+remote_server_analysis,Удалённый сервер,3,2.2

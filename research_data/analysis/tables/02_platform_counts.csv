@@ -1,0 +1,7 @@
+platform,count,share_pct,comments_n,comments_median,comments_mean,score_n,score_median,score_mean
+Reddit,46,34.3,46,8.0,13.02,46,1.0,7.0
+Ask Ubuntu,25,18.7,25,1.0,1.04,25,1.0,1.0
+GitHub,20,14.9,20,1.0,2.75,0,,
+Fedora Discussion,20,14.9,20,7.5,10.1,0,,
+Unix & Linux SE,17,12.7,17,1.0,1.29,17,1.0,2.71
+Arch Linux Forums,6,4.5,6,5.5,5.83,0,,

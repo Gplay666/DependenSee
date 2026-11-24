@@ -1,0 +1,10 @@
+category,n,mentions_dependencies_count,mentions_dependencies_pct,mentions_cleanup_count,mentions_cleanup_pct,mentions_safety_count,mentions_safety_pct,mentions_disk_space_count,mentions_disk_space_pct,mentions_visualization_count,mentions_visualization_pct
+removal_safety,37,37,100.0,36,97.3,37,100.0,7,18.9,0,0.0
+unused_packages,22,16,72.7,22,100.0,7,31.8,4,18.2,1,4.5
+cleanup_disk_space,20,14,70.0,20,100.0,0,0.0,20,100.0,0,0.0
+package_tool_usability,16,13,81.2,16,100.0,5,31.2,2,12.5,0,0.0
+dependency_opacity,15,15,100.0,8,53.3,4,26.7,1,6.7,0,0.0
+orphaned_packages,10,10,100.0,10,100.0,2,20.0,0,0.0,0,0.0
+visualization_request,7,7,100.0,2,28.6,0,0.0,1,14.3,7,100.0
+package_inventory,4,4,100.0,4,100.0,1,25.0,0,0.0,0,0.0
+remote_server_analysis,3,2,66.7,2,66.7,1,33.3,2,66.7,0,0.0

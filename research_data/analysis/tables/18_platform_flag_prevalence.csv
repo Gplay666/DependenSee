@@ -1,0 +1,7 @@
+platform,n,mentions_dependencies_count,mentions_dependencies_pct,mentions_cleanup_count,mentions_cleanup_pct,mentions_safety_count,mentions_safety_pct,mentions_disk_space_count,mentions_disk_space_pct,mentions_visualization_count,mentions_visualization_pct
+Reddit,46,37,80.4,44,95.7,20,43.5,11,23.9,3,6.5
+Ask Ubuntu,25,25,100.0,23,92.0,16,64.0,9,36.0,2,8.0
+GitHub,20,18,90.0,20,100.0,6,30.0,5,25.0,0,0.0
+Fedora Discussion,20,18,90.0,15,75.0,6,30.0,8,40.0,2,10.0
+Unix & Linux SE,17,15,88.2,15,88.2,6,35.3,4,23.5,1,5.9
+Arch Linux Forums,6,5,83.3,3,50.0,3,50.0,0,0.0,0,0.0

@@ -1,0 +1,16 @@
+distro,family,count,share_pct
+Ubuntu,Debian/Ubuntu,35,26.1
+Fedora,Fedora/RHEL,29,21.6
+Не указан,Не указан,21,15.7
+Arch Linux,Arch,17,12.7
+Debian,Debian/Ubuntu,9,6.7
+Linux Mint,Debian/Ubuntu,6,4.5
+Manjaro,Arch,3,2.2
+CachyOS,Arch,2,1.5
+Lubuntu,Debian/Ubuntu,2,1.5
+Kubuntu,Debian/Ubuntu,2,1.5
+Pop!_OS,Debian/Ubuntu,2,1.5
+Raspbian,Debian/Ubuntu,2,1.5
+CentOS,Fedora/RHEL,2,1.5
+Xubuntu,Debian/Ubuntu,1,0.7
+Ubuntu Studio,Debian/Ubuntu,1,0.7

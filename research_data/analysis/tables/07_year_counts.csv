@@ -1,0 +1,8 @@
+year,count,share_pct,top_category,top_category_count,safety_count,visualization_count
+2020,18,13.4,removal_safety,5,7,1
+2021,20,14.9,removal_safety,5,9,1
+2022,19,14.2,package_tool_usability,4,7,1
+2023,15,11.2,removal_safety,6,9,0
+2024,25,18.7,removal_safety,6,8,3
+2025,17,12.7,removal_safety,7,7,0
+2026,20,14.9,removal_safety,5,10,2

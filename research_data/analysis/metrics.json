@@ -1,0 +1,1205 @@
+{
+  "generated_on": "2026-11-24",
+  "input": {
+    "file": "research_data/discussions.csv",
+    "rows": 134,
+    "unique_urls": 134,
+    "date_min": "2020-01-08",
+    "date_max": "2026-11-02",
+    "since_2021": 116,
+    "since_2021_pct": 86.6
+  },
+  "platforms": {
+    "order": [
+      "Reddit",
+      "Ask Ubuntu",
+      "GitHub",
+      "Fedora Discussion",
+      "Unix & Linux SE",
+      "Arch Linux Forums"
+    ],
+    "counts": {
+      "Reddit": 46,
+      "Ask Ubuntu": 25,
+      "GitHub": 20,
+      "Fedora Discussion": 20,
+      "Unix & Linux SE": 17,
+      "Arch Linux Forums": 6
+    },
+    "shares_pct": {
+      "Reddit": 34.3,
+      "Ask Ubuntu": 18.7,
+      "GitHub": 14.9,
+      "Fedora Discussion": 14.9,
+      "Unix & Linux SE": 12.7,
+      "Arch Linux Forums": 4.5
+    }
+  },
+  "sources": {
+    "counts": {
+      "Reddit (r/linuxquestions)": 29,
+      "Ask Ubuntu": 25,
+      "Fedora Discussion": 20,
+      "Unix & Linux Stack Exchange": 17,
+      "Reddit (r/linux4noobs)": 15,
+      "Arch Linux Forums": 6,
+      "GitHub (Morganamilo/paru)": 5,
+      "GitHub (rpm-software-management/dnf5)": 5,
+      "GitHub (bleachbit/bleachbit)": 4,
+      "Reddit (r/linux)": 2,
+      "GitHub (oguzhaninan/Stacer)": 2,
+      "GitHub (linuxmint/mintupdate)": 1,
+      "GitHub (mvo5/synaptic)": 1,
+      "GitHub (mvo5/unattended-upgrades)": 1,
+      "GitHub (Jguer/yay)": 1
+    },
+    "shares_pct": {
+      "Reddit (r/linuxquestions)": 21.6,
+      "Ask Ubuntu": 18.7,
+      "Fedora Discussion": 14.9,
+      "Unix & Linux Stack Exchange": 12.7,
+      "Reddit (r/linux4noobs)": 11.2,
+      "Arch Linux Forums": 4.5,
+      "GitHub (Morganamilo/paru)": 3.7,
+      "GitHub (rpm-software-management/dnf5)": 3.7,
+      "GitHub (bleachbit/bleachbit)": 3.0,
+      "Reddit (r/linux)": 1.5,
+      "GitHub (oguzhaninan/Stacer)": 1.5,
+      "GitHub (linuxmint/mintupdate)": 0.7,
+      "GitHub (mvo5/synaptic)": 0.7,
+      "GitHub (mvo5/unattended-upgrades)": 0.7,
+      "GitHub (Jguer/yay)": 0.7
+    }
+  },
+  "distros": {
+    "counts": {
+      "Ubuntu": 35,
+      "Fedora": 29,
+      "Не указан": 21,
+      "Arch Linux": 17,
+      "Debian": 9,
+      "Linux Mint": 6,
+      "Manjaro": 3,
+      "CachyOS": 2,
+      "Lubuntu": 2,
+      "Kubuntu": 2,
+      "Pop!_OS": 2,
+      "Raspbian": 2,
+      "CentOS": 2,
+      "Xubuntu": 1,
+      "Ubuntu Studio": 1
+    },
+    "shares_pct": {
+      "Ubuntu": 26.1,
+      "Fedora": 21.6,
+      "Не указан": 15.7,
+      "Arch Linux": 12.7,
+      "Debian": 6.7,
+      "Linux Mint": 4.5,
+      "Manjaro": 2.2,
+      "CachyOS": 1.5,
+      "Lubuntu": 1.5,
+      "Kubuntu": 1.5,
+      "Pop!_OS": 1.5,
+      "Raspbian": 1.5,
+      "CentOS": 1.5,
+      "Xubuntu": 0.7,
+      "Ubuntu Studio": 0.7
+    },
+    "families": {
+      "Debian/Ubuntu": 60,
+      "Fedora/RHEL": 31,
+      "Arch": 22,
+      "Не указан": 21
+    },
+    "family_shares_pct": {
+      "Debian/Ubuntu": 44.8,
+      "Fedora/RHEL": 23.1,
+      "Arch": 16.4,
+      "Не указан": 15.7
+    }
+  },
+  "categories": {
+    "order": [
+      "removal_safety",
+      "unused_packages",
+      "cleanup_disk_space",
+      "package_tool_usability",
+      "dependency_opacity",
+      "orphaned_packages",
+      "visualization_request",
+      "package_inventory",
+      "remote_server_analysis"
+    ],
+    "counts": {
+      "removal_safety": 37,
+      "unused_packages": 22,
+      "cleanup_disk_space": 20,
+      "package_tool_usability": 16,
+      "dependency_opacity": 15,
+      "orphaned_packages": 10,
+      "visualization_request": 7,
+      "package_inventory": 4,
+      "remote_server_analysis": 3
+    },
+    "shares_pct": {
+      "removal_safety": 27.6,
+      "unused_packages": 16.4,
+      "cleanup_disk_space": 14.9,
+      "package_tool_usability": 11.9,
+      "dependency_opacity": 11.2,
+      "orphaned_packages": 7.5,
+      "visualization_request": 5.2,
+      "package_inventory": 3.0,
+      "remote_server_analysis": 2.2
+    },
+    "top3": 79,
+    "top3_pct": 59.0
+  },
+  "flags": {
+    "order": [
+      "mentions_dependencies",
+      "mentions_cleanup",
+      "mentions_safety",
+      "mentions_disk_space",
+      "mentions_visualization"
+    ],
+    "counts": {
+      "mentions_dependencies": 118,
+      "mentions_cleanup": 120,
+      "mentions_safety": 57,
+      "mentions_disk_space": 37,
+      "mentions_visualization": 8
+    },
+    "shares_pct": {
+      "mentions_dependencies": 88.1,
+      "mentions_cleanup": 89.6,
+      "mentions_safety": 42.5,
+      "mentions_disk_space": 27.6,
+      "mentions_visualization": 6.0
+    },
+    "both_dependencies_and_cleanup": 105,
+    "both_dependencies_and_cleanup_pct": 78.4,
+    "flag_count_distribution": {
+      "3": 61,
+      "2": 54,
+      "1": 9,
+      "4": 10
+    },
+    "jaccard": {
+      "mentions_dependencies|mentions_dependencies": 1.0,
+      "mentions_dependencies|mentions_cleanup": 0.789,
+      "mentions_cleanup|mentions_dependencies": 0.789,
+      "mentions_dependencies|mentions_safety": 0.434,
+      "mentions_safety|mentions_dependencies": 0.434,
+      "mentions_dependencies|mentions_disk_space": 0.211,
+      "mentions_disk_space|mentions_dependencies": 0.211,
+      "mentions_dependencies|mentions_visualization": 0.068,
+      "mentions_visualization|mentions_dependencies": 0.068,
+      "mentions_cleanup|mentions_cleanup": 1.0,
+      "mentions_cleanup|mentions_safety": 0.439,
+      "mentions_safety|mentions_cleanup": 0.439,
+      "mentions_cleanup|mentions_disk_space": 0.276,
+      "mentions_disk_space|mentions_cleanup": 0.276,
+      "mentions_cleanup|mentions_visualization": 0.024,
+      "mentions_visualization|mentions_cleanup": 0.024,
+      "mentions_safety|mentions_safety": 1.0,
+      "mentions_safety|mentions_disk_space": 0.133,
+      "mentions_disk_space|mentions_safety": 0.133,
+      "mentions_safety|mentions_visualization": 0.016,
+      "mentions_visualization|mentions_safety": 0.016,
+      "mentions_disk_space|mentions_disk_space": 1.0,
+      "mentions_disk_space|mentions_visualization": 0.023,
+      "mentions_visualization|mentions_disk_space": 0.023,
+      "mentions_visualization|mentions_visualization": 1.0
+    }
+  },
+  "cross_tabs": {
+    "platform_category_counts": {
+      "Reddit": {
+        "removal_safety": 11,
+        "unused_packages": 9,
+        "cleanup_disk_space": 6,
+        "package_tool_usability": 5,
+        "dependency_opacity": 4,
+        "orphaned_packages": 4,
+        "visualization_request": 2,
+        "package_inventory": 4,
+        "remote_server_analysis": 1
+      },
+      "Ask Ubuntu": {
+        "removal_safety": 12,
+        "unused_packages": 2,
+        "cleanup_disk_space": 4,
+        "package_tool_usability": 4,
+        "dependency_opacity": 0,
+        "orphaned_packages": 0,
+        "visualization_request": 2,
+        "package_inventory": 0,
+        "remote_server_analysis": 1
+      },
+      "GitHub": {
+        "removal_safety": 4,
+        "unused_packages": 6,
+        "cleanup_disk_space": 5,
+        "package_tool_usability": 2,
+        "dependency_opacity": 0,
+        "orphaned_packages": 3,
+        "visualization_request": 0,
+        "package_inventory": 0,
+        "remote_server_analysis": 0
+      },
+      "Fedora Discussion": {
+        "removal_safety": 6,
+        "unused_packages": 4,
+        "cleanup_disk_space": 4,
+        "package_tool_usability": 1,
+        "dependency_opacity": 3,
+        "orphaned_packages": 0,
+        "visualization_request": 2,
+        "package_inventory": 0,
+        "remote_server_analysis": 0
+      },
+      "Unix & Linux SE": {
+        "removal_safety": 3,
+        "unused_packages": 1,
+        "cleanup_disk_space": 1,
+        "package_tool_usability": 3,
+        "dependency_opacity": 6,
+        "orphaned_packages": 1,
+        "visualization_request": 1,
+        "package_inventory": 0,
+        "remote_server_analysis": 1
+      },
+      "Arch Linux Forums": {
+        "removal_safety": 1,
+        "unused_packages": 0,
+        "cleanup_disk_space": 0,
+        "package_tool_usability": 1,
+        "dependency_opacity": 2,
+        "orphaned_packages": 2,
+        "visualization_request": 0,
+        "package_inventory": 0,
+        "remote_server_analysis": 0
+      }
+    },
+    "platform_category_row_pct": {
+      "Reddit": {
+        "removal_safety": 23.9,
+        "unused_packages": 19.6,
+        "cleanup_disk_space": 13.0,
+        "package_tool_usability": 10.9,
+        "dependency_opacity": 8.7,
+        "orphaned_packages": 8.7,
+        "visualization_request": 4.3,
+        "package_inventory": 8.7,
+        "remote_server_analysis": 2.2
+      },
+      "Ask Ubuntu": {
+        "removal_safety": 48.0,
+        "unused_packages": 8.0,
+        "cleanup_disk_space": 16.0,
+        "package_tool_usability": 16.0,
+        "dependency_opacity": 0.0,
+        "orphaned_packages": 0.0,
+        "visualization_request": 8.0,
+        "package_inventory": 0.0,
+        "remote_server_analysis": 4.0
+      },
+      "GitHub": {
+        "removal_safety": 20.0,
+        "unused_packages": 30.0,
+        "cleanup_disk_space": 25.0,
+        "package_tool_usability": 10.0,
+        "dependency_opacity": 0.0,
+        "orphaned_packages": 15.0,
+        "visualization_request": 0.0,
+        "package_inventory": 0.0,
+        "remote_server_analysis": 0.0
+      },
+      "Fedora Discussion": {
+        "removal_safety": 30.0,
+        "unused_packages": 20.0,
+        "cleanup_disk_space": 20.0,
+        "package_tool_usability": 5.0,
+        "dependency_opacity": 15.0,
+        "orphaned_packages": 0.0,
+        "visualization_request": 10.0,
+        "package_inventory": 0.0,
+        "remote_server_analysis": 0.0
+      },
+      "Unix & Linux SE": {
+        "removal_safety": 17.6,
+        "unused_packages": 5.9,
+        "cleanup_disk_space": 5.9,
+        "package_tool_usability": 17.6,
+        "dependency_opacity": 35.3,
+        "orphaned_packages": 5.9,
+        "visualization_request": 5.9,
+        "package_inventory": 0.0,
+        "remote_server_analysis": 5.9
+      },
+      "Arch Linux Forums": {
+        "removal_safety": 16.7,
+        "unused_packages": 0.0,
+        "cleanup_disk_space": 0.0,
+        "package_tool_usability": 16.7,
+        "dependency_opacity": 33.3,
+        "orphaned_packages": 33.3,
+        "visualization_request": 0.0,
+        "package_inventory": 0.0,
+        "remote_server_analysis": 0.0
+      }
+    },
+    "platform_flag_counts": {
+      "Reddit": {
+        "mentions_dependencies": 37,
+        "mentions_cleanup": 44,
+        "mentions_safety": 20,
+        "mentions_disk_space": 11,
+        "mentions_visualization": 3
+      },
+      "Ask Ubuntu": {
+        "mentions_dependencies": 25,
+        "mentions_cleanup": 23,
+        "mentions_safety": 16,
+        "mentions_disk_space": 9,
+        "mentions_visualization": 2
+      },
+      "GitHub": {
+        "mentions_dependencies": 18,
+        "mentions_cleanup": 20,
+        "mentions_safety": 6,
+        "mentions_disk_space": 5,
+        "mentions_visualization": 0
+      },
+      "Fedora Discussion": {
+        "mentions_dependencies": 18,
+        "mentions_cleanup": 15,
+        "mentions_safety": 6,
+        "mentions_disk_space": 8,
+        "mentions_visualization": 2
+      },
+      "Unix & Linux SE": {
+        "mentions_dependencies": 15,
+        "mentions_cleanup": 15,
+        "mentions_safety": 6,
+        "mentions_disk_space": 4,
+        "mentions_visualization": 1
+      },
+      "Arch Linux Forums": {
+        "mentions_dependencies": 5,
+        "mentions_cleanup": 3,
+        "mentions_safety": 3,
+        "mentions_disk_space": 0,
+        "mentions_visualization": 0
+      }
+    },
+    "platform_flag_prevalence_pct": {
+      "Reddit": {
+        "mentions_dependencies": 80.4,
+        "mentions_cleanup": 95.7,
+        "mentions_safety": 43.5,
+        "mentions_disk_space": 23.9,
+        "mentions_visualization": 6.5
+      },
+      "Ask Ubuntu": {
+        "mentions_dependencies": 100.0,
+        "mentions_cleanup": 92.0,
+        "mentions_safety": 64.0,
+        "mentions_disk_space": 36.0,
+        "mentions_visualization": 8.0
+      },
+      "GitHub": {
+        "mentions_dependencies": 90.0,
+        "mentions_cleanup": 100.0,
+        "mentions_safety": 30.0,
+        "mentions_disk_space": 25.0,
+        "mentions_visualization": 0.0
+      },
+      "Fedora Discussion": {
+        "mentions_dependencies": 90.0,
+        "mentions_cleanup": 75.0,
+        "mentions_safety": 30.0,
+        "mentions_disk_space": 40.0,
+        "mentions_visualization": 10.0
+      },
+      "Unix & Linux SE": {
+        "mentions_dependencies": 88.2,
+        "mentions_cleanup": 88.2,
+        "mentions_safety": 35.3,
+        "mentions_disk_space": 23.5,
+        "mentions_visualization": 5.9
+      },
+      "Arch Linux Forums": {
+        "mentions_dependencies": 83.3,
+        "mentions_cleanup": 50.0,
+        "mentions_safety": 50.0,
+        "mentions_disk_space": 0.0,
+        "mentions_visualization": 0.0
+      }
+    },
+    "family_category_counts": {
+      "Debian/Ubuntu": {
+        "removal_safety": 23,
+        "unused_packages": 6,
+        "cleanup_disk_space": 11,
+        "package_tool_usability": 8,
+        "dependency_opacity": 7,
+        "orphaned_packages": 0,
+        "visualization_request": 1,
+        "package_inventory": 3,
+        "remote_server_analysis": 1
+      },
+      "Fedora/RHEL": {
+        "removal_safety": 9,
+        "unused_packages": 7,
+        "cleanup_disk_space": 5,
+        "package_tool_usability": 4,
+        "dependency_opacity": 4,
+        "orphaned_packages": 0,
+        "visualization_request": 2,
+        "package_inventory": 0,
+        "remote_server_analysis": 0
+      },
+      "Arch": {
+        "removal_safety": 2,
+        "unused_packages": 4,
+        "cleanup_disk_space": 2,
+        "package_tool_usability": 3,
+        "dependency_opacity": 3,
+        "orphaned_packages": 8,
+        "visualization_request": 0,
+        "package_inventory": 0,
+        "remote_server_analysis": 0
+      },
+      "Не указан": {
+        "removal_safety": 3,
+        "unused_packages": 5,
+        "cleanup_disk_space": 2,
+        "package_tool_usability": 1,
+        "dependency_opacity": 1,
+        "orphaned_packages": 2,
+        "visualization_request": 4,
+        "package_inventory": 1,
+        "remote_server_analysis": 2
+      }
+    },
+    "category_flag_counts": {
+      "removal_safety": {
+        "mentions_dependencies": 37,
+        "mentions_cleanup": 36,
+        "mentions_safety": 37,
+        "mentions_disk_space": 7,
+        "mentions_visualization": 0
+      },
+      "unused_packages": {
+        "mentions_dependencies": 16,
+        "mentions_cleanup": 22,
+        "mentions_safety": 7,
+        "mentions_disk_space": 4,
+        "mentions_visualization": 1
+      },
+      "cleanup_disk_space": {
+        "mentions_dependencies": 14,
+        "mentions_cleanup": 20,
+        "mentions_safety": 0,
+        "mentions_disk_space": 20,
+        "mentions_visualization": 0
+      },
+      "package_tool_usability": {
+        "mentions_dependencies": 13,
+        "mentions_cleanup": 16,
+        "mentions_safety": 5,
+        "mentions_disk_space": 2,
+        "mentions_visualization": 0
+      },
+      "dependency_opacity": {
+        "mentions_dependencies": 15,
+        "mentions_cleanup": 8,
+        "mentions_safety": 4,
+        "mentions_disk_space": 1,
+        "mentions_visualization": 0
+      },
+      "orphaned_packages": {
+        "mentions_dependencies": 10,
+        "mentions_cleanup": 10,
+        "mentions_safety": 2,
+        "mentions_disk_space": 0,
+        "mentions_visualization": 0
+      },
+      "visualization_request": {
+        "mentions_dependencies": 7,
+        "mentions_cleanup": 2,
+        "mentions_safety": 0,
+        "mentions_disk_space": 1,
+        "mentions_visualization": 7
+      },
+      "package_inventory": {
+        "mentions_dependencies": 4,
+        "mentions_cleanup": 4,
+        "mentions_safety": 1,
+        "mentions_disk_space": 0,
+        "mentions_visualization": 0
+      },
+      "remote_server_analysis": {
+        "mentions_dependencies": 2,
+        "mentions_cleanup": 2,
+        "mentions_safety": 1,
+        "mentions_disk_space": 2,
+        "mentions_visualization": 0
+      }
+    },
+    "category_flag_prevalence_pct": {
+      "removal_safety": {
+        "mentions_dependencies": 100.0,
+        "mentions_cleanup": 97.3,
+        "mentions_safety": 100.0,
+        "mentions_disk_space": 18.9,
+        "mentions_visualization": 0.0
+      },
+      "unused_packages": {
+        "mentions_dependencies": 72.7,
+        "mentions_cleanup": 100.0,
+        "mentions_safety": 31.8,
+        "mentions_disk_space": 18.2,
+        "mentions_visualization": 4.5
+      },
+      "cleanup_disk_space": {
+        "mentions_dependencies": 70.0,
+        "mentions_cleanup": 100.0,
+        "mentions_safety": 0.0,
+        "mentions_disk_space": 100.0,
+        "mentions_visualization": 0.0
+      },
+      "package_tool_usability": {
+        "mentions_dependencies": 81.2,
+        "mentions_cleanup": 100.0,
+        "mentions_safety": 31.2,
+        "mentions_disk_space": 12.5,
+        "mentions_visualization": 0.0
+      },
+      "dependency_opacity": {
+        "mentions_dependencies": 100.0,
+        "mentions_cleanup": 53.3,
+        "mentions_safety": 26.7,
+        "mentions_disk_space": 6.7,
+        "mentions_visualization": 0.0
+      },
+      "orphaned_packages": {
+        "mentions_dependencies": 100.0,
+        "mentions_cleanup": 100.0,
+        "mentions_safety": 20.0,
+        "mentions_disk_space": 0.0,
+        "mentions_visualization": 0.0
+      },
+      "visualization_request": {
+        "mentions_dependencies": 100.0,
+        "mentions_cleanup": 28.6,
+        "mentions_safety": 0.0,
+        "mentions_disk_space": 14.3,
+        "mentions_visualization": 100.0
+      },
+      "package_inventory": {
+        "mentions_dependencies": 100.0,
+        "mentions_cleanup": 100.0,
+        "mentions_safety": 25.0,
+        "mentions_disk_space": 0.0,
+        "mentions_visualization": 0.0
+      },
+      "remote_server_analysis": {
+        "mentions_dependencies": 66.7,
+        "mentions_cleanup": 66.7,
+        "mentions_safety": 33.3,
+        "mentions_disk_space": 66.7,
+        "mentions_visualization": 0.0
+      }
+    }
+  },
+  "years": {
+    "counts": {
+      "2020": 18,
+      "2021": 20,
+      "2022": 19,
+      "2023": 15,
+      "2024": 25,
+      "2025": 17,
+      "2026": 20
+    },
+    "shares_pct": {
+      "2020": 13.4,
+      "2021": 14.9,
+      "2022": 14.2,
+      "2023": 11.2,
+      "2024": 18.7,
+      "2025": 12.7,
+      "2026": 14.9
+    },
+    "category_counts": {
+      "2020": {
+        "removal_safety": 5,
+        "unused_packages": 4,
+        "cleanup_disk_space": 4,
+        "package_tool_usability": 0,
+        "dependency_opacity": 2,
+        "orphaned_packages": 0,
+        "visualization_request": 1,
+        "package_inventory": 1,
+        "remote_server_analysis": 1
+      },
+      "2021": {
+        "removal_safety": 5,
+        "unused_packages": 3,
+        "cleanup_disk_space": 3,
+        "package_tool_usability": 5,
+        "dependency_opacity": 1,
+        "orphaned_packages": 2,
+        "visualization_request": 1,
+        "package_inventory": 0,
+        "remote_server_analysis": 0
+      },
+      "2022": {
+        "removal_safety": 3,
+        "unused_packages": 3,
+        "cleanup_disk_space": 3,
+        "package_tool_usability": 4,
+        "dependency_opacity": 1,
+        "orphaned_packages": 1,
+        "visualization_request": 1,
+        "package_inventory": 1,
+        "remote_server_analysis": 2
+      },
+      "2023": {
+        "removal_safety": 6,
+        "unused_packages": 2,
+        "cleanup_disk_space": 3,
+        "package_tool_usability": 1,
+        "dependency_opacity": 1,
+        "orphaned_packages": 1,
+        "visualization_request": 0,
+        "package_inventory": 1,
+        "remote_server_analysis": 0
+      },
+      "2024": {
+        "removal_safety": 6,
+        "unused_packages": 5,
+        "cleanup_disk_space": 5,
+        "package_tool_usability": 2,
+        "dependency_opacity": 2,
+        "orphaned_packages": 1,
+        "visualization_request": 3,
+        "package_inventory": 1,
+        "remote_server_analysis": 0
+      },
+      "2025": {
+        "removal_safety": 7,
+        "unused_packages": 3,
+        "cleanup_disk_space": 0,
+        "package_tool_usability": 2,
+        "dependency_opacity": 3,
+        "orphaned_packages": 2,
+        "visualization_request": 0,
+        "package_inventory": 0,
+        "remote_server_analysis": 0
+      },
+      "2026": {
+        "removal_safety": 5,
+        "unused_packages": 2,
+        "cleanup_disk_space": 2,
+        "package_tool_usability": 2,
+        "dependency_opacity": 5,
+        "orphaned_packages": 3,
+        "visualization_request": 1,
+        "package_inventory": 0,
+        "remote_server_analysis": 0
+      }
+    }
+  },
+  "engagement": {
+    "Reddit": {
+      "n": 46,
+      "comments": {
+        "n": 46,
+        "mean": 13.02,
+        "median": 8.0,
+        "q1": 3.0,
+        "q3": 15.0,
+        "min": 1.0,
+        "max": 79.0
+      },
+      "score": {
+        "n": 46,
+        "mean": 7.0,
+        "median": 1.0,
+        "q1": 1.0,
+        "q3": 5.0,
+        "min": 0.0,
+        "max": 81.0
+      }
+    },
+    "Ask Ubuntu": {
+      "n": 25,
+      "comments": {
+        "n": 25,
+        "mean": 1.04,
+        "median": 1.0,
+        "q1": 1.0,
+        "q3": 1.0,
+        "min": 0.0,
+        "max": 3.0
+      },
+      "score": {
+        "n": 25,
+        "mean": 1.0,
+        "median": 1.0,
+        "q1": 0.0,
+        "q3": 2.0,
+        "min": -1.0,
+        "max": 4.0
+      }
+    },
+    "GitHub": {
+      "n": 20,
+      "comments": {
+        "n": 20,
+        "mean": 2.75,
+        "median": 1.0,
+        "q1": 1.0,
+        "q3": 3.0,
+        "min": 0.0,
+        "max": 10.0
+      },
+      "score": {
+        "n": 0
+      }
+    },
+    "Fedora Discussion": {
+      "n": 20,
+      "comments": {
+        "n": 20,
+        "mean": 10.1,
+        "median": 7.5,
+        "q1": 3.75,
+        "q3": 11.75,
+        "min": 1.0,
+        "max": 37.0
+      },
+      "score": {
+        "n": 0
+      }
+    },
+    "Unix & Linux SE": {
+      "n": 17,
+      "comments": {
+        "n": 17,
+        "mean": 1.29,
+        "median": 1.0,
+        "q1": 1.0,
+        "q3": 2.0,
+        "min": 0.0,
+        "max": 4.0
+      },
+      "score": {
+        "n": 17,
+        "mean": 2.71,
+        "median": 1.0,
+        "q1": 1.0,
+        "q3": 2.0,
+        "min": 0.0,
+        "max": 22.0
+      }
+    },
+    "Arch Linux Forums": {
+      "n": 6,
+      "comments": {
+        "n": 6,
+        "mean": 5.83,
+        "median": 5.5,
+        "q1": 3.5,
+        "q3": 7.5,
+        "min": 3.0,
+        "max": 10.0
+      },
+      "score": {
+        "n": 0
+      }
+    }
+  },
+  "visualization": {
+    "mentions_count": 8,
+    "mentions_pct": 6.0,
+    "category_request_count": 7,
+    "category_request_pct": 5.2,
+    "mentions_with_category_request": 7,
+    "category_request_with_safety": 0,
+    "mentions_with_safety": 1,
+    "mentions_with_dependencies": 8,
+    "mentions_with_cleanup": 3,
+    "mentions_with_disk_space": 1,
+    "by_platform": {
+      "Reddit": 3,
+      "Fedora Discussion": 2,
+      "Ask Ubuntu": 2,
+      "Unix & Linux SE": 1
+    },
+    "by_category": {
+      "visualization_request": 7,
+      "unused_packages": 1
+    },
+    "ids": [
+      "DS-007",
+      "DS-009",
+      "DS-043",
+      "DS-044",
+      "DS-058",
+      "DS-082",
+      "DS-108",
+      "DS-124"
+    ]
+  },
+  "analogs": {
+    "checked_on": "2026-11-24",
+    "features": [
+      {
+        "key": "graph",
+        "label": "Граф"
+      },
+      {
+        "key": "whole_system",
+        "label": "Вся система"
+      },
+      {
+        "key": "why_chain",
+        "label": "Why-цепочки"
+      },
+      {
+        "key": "multi_manager",
+        "label": "Мульти-менеджер"
+      },
+      {
+        "key": "orphan_detection",
+        "label": "Orphan"
+      },
+      {
+        "key": "removal_preview",
+        "label": "Предпросмотр\nудаления"
+      },
+      {
+        "key": "export",
+        "label": "Экспорт"
+      },
+      {
+        "key": "disk_size",
+        "label": "Размеры"
+      },
+      {
+        "key": "headless",
+        "label": "Headless/CLI"
+      },
+      {
+        "key": "install_modeling",
+        "label": "Моделирование\nустановки"
+      }
+    ],
+    "tools": [
+      {
+        "tool": "LDG (Linux Dependency Guide)",
+        "short": "LDG",
+        "class": "Прямой аналог",
+        "url": "https://github.com/RubensRainelli/linux-dependency-guide",
+        "values": {
+          "graph": 1.0,
+          "whole_system": 1.0,
+          "why_chain": 0.5,
+          "multi_manager": 1.0,
+          "orphan_detection": 0.0,
+          "removal_preview": 0.0,
+          "export": 1.0,
+          "disk_size": 0.0,
+          "headless": 1.0,
+          "install_modeling": 0.0
+        },
+        "coverage_score": 5.5,
+        "coverage_pct": 55.0,
+        "note": "Интерактивный HTML-граф, JSON-инвентаризация и сравнение экспортов; перемещение по цепочкам есть, отдельной why-команды нет. Поиск orphan, размеры пакетов и предпросмотр удаления в просмотренной документации не заявлены."
+      },
+      {
+        "tool": "Graphite",
+        "short": "Graphite",
+        "class": "Прямой аналог",
+        "url": "https://github.com/CacheUseOnly/graphite",
+        "values": {
+          "graph": 1.0,
+          "whole_system": 1.0,
+          "why_chain": 0.5,
+          "multi_manager": 0.0,
+          "orphan_detection": 0.0,
+          "removal_preview": 0.0,
+          "export": 0.0,
+          "disk_size": 0.0,
+          "headless": 0.0,
+          "install_modeling": 0.0
+        },
+        "coverage_score": 2.5,
+        "coverage_pct": 25.0,
+        "note": "Интерактивный направленный граф установленной APT-системы и подсветка подграфа выбранного пакета; экспорт, orphan-поиск и удаление не заявлены."
+      },
+      {
+        "tool": "Starfish",
+        "short": "Starfish",
+        "class": "Прямой аналог",
+        "url": "https://github.com/Seafoam-Labs/Starfish",
+        "values": {
+          "graph": 1.0,
+          "whole_system": 0.5,
+          "why_chain": 0.5,
+          "multi_manager": 0.0,
+          "orphan_detection": 0.0,
+          "removal_preview": 0.0,
+          "export": 0.0,
+          "disk_size": 0.0,
+          "headless": 0.0,
+          "install_modeling": 0.0
+        },
+        "coverage_score": 2.0,
+        "coverage_pct": 20.0,
+        "note": "Интерактивный граф прямых зависимостей и Required By для Arch/ALPM; общесистемная карта, экспорт и сценарий удаления не подтверждены."
+      },
+      {
+        "tool": "debtree",
+        "short": "debtree",
+        "class": "Специализированный инструмент",
+        "url": "https://manpages.debian.org/trixie/debtree/debtree.1.en.html",
+        "values": {
+          "graph": 1.0,
+          "whole_system": 0.0,
+          "why_chain": 1.0,
+          "multi_manager": 0.0,
+          "orphan_detection": 0.0,
+          "removal_preview": 0.0,
+          "export": 0.5,
+          "disk_size": 0.0,
+          "headless": 1.0,
+          "install_modeling": 0.0
+        },
+        "coverage_score": 3.5,
+        "coverage_pct": 35.0,
+        "note": "Генерирует DOT для выбранного Debian-пакета: прямые, обратные и build-зависимости; визуализация требует Graphviz. Это не карта всей системы."
+      },
+      {
+        "tool": "apt-rdepends",
+        "short": "apt-rdepends",
+        "class": "Специализированный инструмент",
+        "url": "https://manpages.debian.org/bookworm/apt-rdepends/apt-rdepends.1.en.html",
+        "values": {
+          "graph": 0.5,
+          "whole_system": 0.0,
+          "why_chain": 1.0,
+          "multi_manager": 0.0,
+          "orphan_detection": 0.0,
+          "removal_preview": 0.0,
+          "export": 0.5,
+          "disk_size": 0.0,
+          "headless": 1.0,
+          "install_modeling": 0.0
+        },
+        "coverage_score": 3.0,
+        "coverage_pct": 30.0,
+        "note": "Рекурсивные прямые и обратные зависимости, DOT-подобный вывод; нет GUI, ограничения по глубине и виртуальным пакетам."
+      },
+      {
+        "tool": "pacwall",
+        "short": "pacwall",
+        "class": "Специализированный инструмент",
+        "url": "https://github.com/Kharacternyk/pacwall",
+        "values": {
+          "graph": 1.0,
+          "whole_system": 1.0,
+          "why_chain": 0.0,
+          "multi_manager": 0.0,
+          "orphan_detection": 1.0,
+          "removal_preview": 0.0,
+          "export": 0.5,
+          "disk_size": 1.0,
+          "headless": 0.0,
+          "install_modeling": 0.0
+        },
+        "coverage_score": 4.5,
+        "coverage_pct": 45.0,
+        "note": "Граф-обои всей pacman-системы: площадь узла связана с размером, подсвечены orphan/unneeded. Не интерактивен, не управляет удалением, pacman-only."
+      },
+      {
+        "tool": "mpm (Meta Package Manager)",
+        "short": "mpm",
+        "class": "Смежное решение",
+        "url": "https://github.com/kdeldycke/meta-package-manager",
+        "values": {
+          "graph": 0.0,
+          "whole_system": 0.0,
+          "why_chain": 0.0,
+          "multi_manager": 1.0,
+          "orphan_detection": 1.0,
+          "removal_preview": 0.0,
+          "export": 1.0,
+          "disk_size": 0.0,
+          "headless": 1.0,
+          "install_modeling": 0.0
+        },
+        "coverage_score": 4.0,
+        "coverage_pct": 40.0,
+        "note": "Мультименеджерный CLI: inventory, dump/restore, список orphan-пакетов, SBOM/JSON/TOML. Графа зависимостей и предпросмотра удаления нет; отчёт об изменениях появляется после выполнения команды."
+      },
+      {
+        "tool": "aptitude",
+        "short": "aptitude",
+        "class": "Смежное решение",
+        "url": "https://www.debian.org/doc/manuals/aptitude/rn01re01.en.html",
+        "values": {
+          "graph": 0.0,
+          "whole_system": 0.0,
+          "why_chain": 1.0,
+          "multi_manager": 0.0,
+          "orphan_detection": 1.0,
+          "removal_preview": 1.0,
+          "export": 0.5,
+          "disk_size": 0.5,
+          "headless": 1.0,
+          "install_modeling": 1.0
+        },
+        "coverage_score": 6.0,
+        "coverage_pct": 60.0,
+        "note": "TUI/CLI с why/why-not, автоматически установленными пакетами и предпросмотром планируемых действий, включая установку и размеры. Не строит визуальный граф и работает только с APT."
+      }
+    ],
+    "sources_status": [
+      {
+        "tool": "LDG (Linux Dependency Guide)",
+        "class": "Прямой аналог",
+        "source_type": "GitHub API",
+        "url": "https://github.com/RubensRainelli/linux-dependency-guide",
+        "http_status": "200",
+        "stars": "20",
+        "forks": "0",
+        "open_issues": "0",
+        "last_push": "2026-06-18",
+        "license": "NOASSERTION (PEFL 1.0)",
+        "included": "да",
+        "comment": "Метрики GitHub перепроверены 2026-11-24."
+      },
+      {
+        "tool": "Graphite",
+        "class": "Прямой аналог",
+        "source_type": "GitHub API",
+        "url": "https://github.com/CacheUseOnly/graphite",
+        "http_status": "200",
+        "stars": "11",
+        "forks": "0",
+        "open_issues": "1",
+        "last_push": "2026-05-08",
+        "license": "GPL-3.0",
+        "included": "да",
+        "comment": "Публичных релизов на странице проекта не указано."
+      },
+      {
+        "tool": "Starfish",
+        "class": "Прямой аналог",
+        "source_type": "GitHub API",
+        "url": "https://github.com/Seafoam-Labs/Starfish",
+        "http_status": "200",
+        "stars": "21",
+        "forks": "1",
+        "open_issues": "0",
+        "last_push": "2026-09-25",
+        "license": "GPL-3.0",
+        "included": "да",
+        "comment": "Ориентирован на Arch/ALPM."
+      },
+      {
+        "tool": "debtree",
+        "class": "Специализированный инструмент",
+        "source_type": "Debian man page",
+        "url": "https://manpages.debian.org/trixie/debtree/debtree.1.en.html",
+        "http_status": "200",
+        "stars": "",
+        "forks": "",
+        "open_issues": "",
+        "last_push": "",
+        "license": "См. debian/copyright",
+        "included": "да",
+        "comment": "Не GitHub-проект; звёзды неприменимы."
+      },
+      {
+        "tool": "apt-rdepends",
+        "class": "Специализированный инструмент",
+        "source_type": "Debian man page",
+        "url": "https://manpages.debian.org/bookworm/apt-rdepends/apt-rdepends.1.en.html",
+        "http_status": "200",
+        "stars": "",
+        "forks": "",
+        "open_issues": "",
+        "last_push": "",
+        "license": "См. debian/copyright",
+        "included": "да",
+        "comment": "Не GitHub-проект; звёзды неприменимы."
+      },
+      {
+        "tool": "pacwall",
+        "class": "Специализированный инструмент",
+        "source_type": "GitHub API",
+        "url": "https://github.com/Kharacternyk/pacwall",
+        "http_status": "200",
+        "stars": "583",
+        "forks": "34",
+        "open_issues": "7",
+        "last_push": "2026-02-20",
+        "license": "GPL-3.0",
+        "included": "да",
+        "comment": "Метрики GitHub перепроверены 2026-11-24."
+      },
+      {
+        "tool": "mpm (Meta Package Manager)",
+        "class": "Смежное решение",
+        "source_type": "GitHub API",
+        "url": "https://github.com/kdeldycke/meta-package-manager",
+        "http_status": "200",
+        "stars": "632",
+        "forks": "53",
+        "open_issues": "16",
+        "last_push": "2026-11-24",
+        "license": "GPL-2.0",
+        "included": "да",
+        "comment": "Метрики GitHub перепроверены 2026-11-24."
+      },
+      {
+        "tool": "aptitude",
+        "class": "Смежное решение",
+        "source_type": "Debian manual",
+        "url": "https://www.debian.org/doc/manuals/aptitude/rn01re01.en.html",
+        "http_status": "200",
+        "stars": "",
+        "forks": "",
+        "open_issues": "",
+        "last_push": "",
+        "license": "См. copyright пакета",
+        "included": "да",
+        "comment": "Не GitHub-проект; звёзды неприменимы."
+      },
+      {
+        "tool": "URPM",
+        "class": "Смежное решение",
+        "source_type": "GitHub API",
+        "url": "https://github.com/MrNaji1/URPM",
+        "http_status": "404",
+        "stars": "",
+        "forks": "",
+        "open_issues": "",
+        "last_push": "",
+        "license": "",
+        "included": "нет",
+        "comment": "Репозиторий недоступен (404) на 2026-11-24. Функции из старого описания не подтверждены и исключены из количественной матрицы."
+      }
+    ],
+    "urpm_excluded": true,
+    "urpm_status": "HTTP 404 on 2026-11-24"
+  }
+}

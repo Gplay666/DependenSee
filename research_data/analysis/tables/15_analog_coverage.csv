@@ -1,0 +1,9 @@
+rank,tool,class,coverage_score,coverage_pct
+1,aptitude,Смежное решение,6.0,60.0
+2,LDG (Linux Dependency Guide),Прямой аналог,5.5,55.0
+3,pacwall,Специализированный инструмент,4.5,45.0
+4,mpm (Meta Package Manager),Смежное решение,4.0,40.0
+5,debtree,Специализированный инструмент,3.5,35.0
+6,apt-rdepends,Специализированный инструмент,3.0,30.0
+7,Graphite,Прямой аналог,2.5,25.0
+8,Starfish,Прямой аналог,2.0,20.0
